@@ -60,20 +60,6 @@ Enforce distance_to_obstacle(t) > safety_margin for all t.
 - Use CasADi (Python) for symbolic differentiation and solver setup.
 - Discretize the trajectory into N steps and solve with IPOPT.
 
-#### Discretization Strategy
-
-- The time horizon **T** is divided into **N** time steps:  
-  \[t_0, t_1, \dots,t_N\]
-- The **state trajectory** is represented as:  
-  \[
-  X = [x_0, x_1, \dots, x_N]
-  \]
-- The **control trajectory** is represented as:  
-  \[
-  U = [u_0, u_1, \dots, u_{N-1}]
-  \]
-- Control inputs \( u_i \) are assumed **constant** within each interval \( [t_i, t_{i+1}] \).
-
 #### Inequality Constraints
 - **Physical Limits:** Enforce bounds on velocity and steering angle.
 - **Collision Avoidance:** Ensure vehicle does not overlap with static/dynamic obstacles.
