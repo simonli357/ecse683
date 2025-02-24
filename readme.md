@@ -4,6 +4,12 @@ This repo contains the coursework for ECSE 683 at McGill University.
 
 ## Assignment 1: Optimal Control
 
+name: Simon Li
+requirements:
+- Ubuntu 20.04
+- ROS Noetic
+- python libraries in requirements.txt
+
 ### Simulator
 
 #### Gazebo
@@ -76,6 +82,41 @@ Enforce distance_to_obstacle(t) > safety_margin for all t.
 #### Integration with Simulator
 - In Gazebo: Use ROS Noetic and the provided simulator instructions to spawn the ego vehicle, apply optimized controls, and track obstacles.
 - Add noise to the dynamics model to test robustness.
+
+### Additional Information
+
+#### Examples & Configuration
+
+- **Configuration Space:**  
+  The configuration space consists of the vehicle’s full state, represented by its position (x, y) and orientation (θ). In this example, the degree of freedom is 3 (x, y, θ). The environment (task space) further includes obstacle positions and lane constraints.
+
+- **Task Space:**  
+  The task space is defined by the goal of overtaking a static obstacle while adhering to speed limits and maintaining a safe distance from obstacles. This includes the spatial boundaries and lane positions that the vehicle must respect.
+
+- **State & Action:**  
+  - **State:** The state is characterized by the vehicle’s position (x, y), its yaw angle (θ), and additional environmental factors (like obstacle positions).  
+  - **Action:** The control inputs, or actions, are the velocity (v) and steering angle (δ) applied to the vehicle.
+
+#### Method Description
+
+- **Approach:**  
+  This project uses an optimization-based approach. Two primary methods are implemented:
+  - **Direct Collocation:** Utilizes CasADi for formulating and solving the optimal control problem via discretization and IPOPT.
+  - **iLQR (iterative Linear Quadratic Regulator):** Implements a quadratic approximation of the cost and linearized dynamics to iteratively compute optimal controls.
+  
+- **Ensuring Physical Limits:**  
+  Physical limits are strictly enforced as constraints within the optimization formulations. The vehicle dynamics (modeled via the kinematic bicycle model) have explicit bounds on both velocity (`v ∈ [v_min, v_max]`) and steering angle (`δ ∈ [δ_min, δ_max]`). Additionally, collision avoidance is maintained by enforcing a safety margin around obstacles.
+
+#### Limitations
+
+- **Performance & Robustness:**  
+  While the optimization and iLQR methods provide effective control strategies for the overtaking task, the methods are not guaranteed to work 100% of the time. Limitations include:
+  - **Sensitivity to Initial Conditions:** The solver's performance can be affected by the choice of initial guesses.
+  - **Local Minima:** Nonlinear optimization may converge to suboptimal solutions in complex scenarios.
+  - **Modeling Approximations:** The kinematic bicycle model is an approximation and may not capture all the nuances of real vehicle dynamics, especially at higher speeds or during aggressive maneuvers.
+  - **Numerical Issues:** Solver convergence (both IPOPT and iLQR) can be sensitive to parameter tuning and external disturbances.
+  
+  These factors imply that while the method works reliably under controlled conditions, real-world uncertainties might cause occasional deviations from the optimal trajectory.
 
 ### Results
 
