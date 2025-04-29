@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>bev</name>
+  <version>0.0.0</version>
+  <description>The segmentation package</description>
+  <maintainer email="xi.yang.li@mail.mcgill.ca">segmentation</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <build_depend>std_msgs</build_depend>
+  
+  <build_export_depend>std_msgs</build_export_depend>
+  
+  <exec_depend>std_msgs</exec_depend>
+</package>

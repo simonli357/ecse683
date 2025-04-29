@@ -1,0 +1,21 @@
+grid_map_visualizations:
+  # Visualize an OccupancyGrid from the "terrain" layer
+  - name: terrain_occupancy
+    type: occupancy_grid
+    params:
+      layer: "terrain"
+      data_min: 0.0         # minimum cost value for free
+      data_max: 100.0       # maximum cost value for occupied
+      color: inferno  # color scheme for occupancy
+      draw_under: true
+      use_color: true
+      alpha: 1.0
+
+  # Visualize a PointCloud from the "terrain" layer (if you also have elevation, etc.)
+  - name: terrain_points
+    type: point_cloud
+    params:
+      layer: "terrain"
+      color_map: "viridis"
+      min_value: 0.0
+      max_value: 100.0

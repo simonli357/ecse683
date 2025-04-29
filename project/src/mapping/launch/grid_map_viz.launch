@@ -1,0 +1,9 @@
+<!-- grid_map_viz.launch -->
+<launch>
+  <node pkg="grid_map_visualization" type="grid_map_visualization" name="grid_map_visualization" output="screen">
+    <rosparam command="load" file="$(find mapping)/config/grid_map_viz.yaml" />
+    <param name="grid_map_topic" value="/grid_map" />
+  </node>
+
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find mapping)/rviz/terrain_map.rviz" />
+</launch>

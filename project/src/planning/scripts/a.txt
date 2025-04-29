@@ -1,0 +1,1897 @@
+rosrun planning controller 
+[ INFO] [1743475705.788830540]: Controller initialized: waiting for BEV images, odometry, and global waypoints.
+Received global path with 682 waypoints.
+[TerrainMap] Updated global map in 0.00251081 seconds.
+[TerrainMap] Iterated in 0.00249118 seconds.
+Computed local goal in 0.000254864 seconds.
+[ INFO] [1743475709.820995374, 20.429597492]: [AStarPlanner] Path found in 1.72403 seconds.
+[TerrainMap] Updated global map in 0.00202887 seconds.
+[TerrainMap] Iterated in 0.00202452 seconds.
+Computed local goal in 3.0784e-05 seconds.
+[ INFO] [1743475709.973092950, 20.429597492]: [AStarPlanner] Path found in 0.103051 seconds.
+[TerrainMap] Updated global map in 0.00224106 seconds.
+[TerrainMap] Iterated in 0.00223527 seconds.
+Computed local goal in 3.1407e-05 seconds.
+[ INFO] [1743475710.633543548, 20.529597494]: [AStarPlanner] Path found in 0.108701 seconds.
+[TerrainMap] Updated global map in 0.00212667 seconds.
+[TerrainMap] Iterated in 0.00212116 seconds.
+Computed local goal in 3.063e-05 seconds.
+[ INFO] [1743475710.787803627, 20.529597494]: [AStarPlanner] Path found in 0.103436 seconds.
+[TerrainMap] Updated global map in 0.00235386 seconds.
+[TerrainMap] Iterated in 0.00234829 seconds.
+Computed local goal in 2.9109e-05 seconds.
+[ INFO] [1743475711.825084723, 20.629597495]: [AStarPlanner] Path found in 0.102677 seconds.
+[TerrainMap] Updated global map in 0.00212138 seconds.
+[TerrainMap] Iterated in 0.00211645 seconds.
+Computed local goal in 3.039e-05 seconds.
+[ INFO] [1743475711.969696994, 20.629597495]: [AStarPlanner] Path found in 0.0980778 seconds.
+[TerrainMap] Updated global map in 0.00226779 seconds.
+[TerrainMap] Iterated in 0.00226124 seconds.
+Computed local goal in 3.8347e-05 seconds.
+[ INFO] [1743475713.024032159, 20.729597497]: [AStarPlanner] Path found in 0.110959 seconds.
+[TerrainMap] Updated global map in 0.00215622 seconds.
+[TerrainMap] Iterated in 0.00215091 seconds.
+Computed local goal in 3.099e-05 seconds.
+[ INFO] [1743475713.178594664, 20.729597497]: [AStarPlanner] Path found in 0.105089 seconds.
+[TerrainMap] Updated global map in 0.00242648 seconds.
+[TerrainMap] Iterated in 0.00242134 seconds.
+Computed local goal in 3.2145e-05 seconds.
+[ INFO] [1743475714.216882691, 20.829597498]: [AStarPlanner] Path found in 0.111738 seconds.
+[TerrainMap] Updated global map in 0.00214352 seconds.
+[TerrainMap] Iterated in 0.00213837 seconds.
+Computed local goal in 3.0892e-05 seconds.
+[ INFO] [1743475714.374100773, 20.829597498]: [AStarPlanner] Path found in 0.105294 seconds.
+[TerrainMap] Updated global map in 0.00198193 seconds.
+[TerrainMap] Iterated in 0.00197642 seconds.
+Computed local goal in 2.9199e-05 seconds.
+[ INFO] [1743475715.409716173, 20.929597500]: [AStarPlanner] Path found in 0.10604 seconds.
+[TerrainMap] Updated global map in 0.00204273 seconds.
+[TerrainMap] Iterated in 0.00203745 seconds.
+Computed local goal in 2.9096e-05 seconds.
+[ INFO] [1743475715.558797506, 20.929597500]: [AStarPlanner] Path found in 0.0988146 seconds.
+[TerrainMap] Updated global map in 0.00222253 seconds.
+[TerrainMap] Iterated in 0.00221651 seconds.
+Computed local goal in 3.2e-05 seconds.
+[ INFO] [1743475716.623048069, 21.029597501]: [AStarPlanner] Path found in 0.106923 seconds.
+[TerrainMap] Updated global map in 0.00188963 seconds.
+[TerrainMap] Iterated in 0.00188476 seconds.
+Computed local goal in 2.8352e-05 seconds.
+[ INFO] [1743475716.772758162, 21.029597501]: [AStarPlanner] Path found in 0.102322 seconds.
+[TerrainMap] Updated global map in 0.00241083 seconds.
+[TerrainMap] Iterated in 0.00240519 seconds.
+Computed local goal in 3.2724e-05 seconds.
+[ INFO] [1743475717.813756385, 21.129597503]: [AStarPlanner] Path found in 0.106248 seconds.
+[TerrainMap] Updated global map in 0.00207182 seconds.
+[TerrainMap] Iterated in 0.00206755 seconds.
+Computed local goal in 3.0611e-05 seconds.
+[ INFO] [1743475717.967949838, 21.129597503]: [AStarPlanner] Path found in 0.103152 seconds.
+[TerrainMap] Updated global map in 0.00219363 seconds.
+[TerrainMap] Iterated in 0.0021878 seconds.
+Computed local goal in 4.0889e-05 seconds.
+[ INFO] [1743475719.010372498, 21.229597504]: [AStarPlanner] Path found in 0.109219 seconds.
+[TerrainMap] Updated global map in 0.00213853 seconds.
+[TerrainMap] Iterated in 0.00213278 seconds.
+Computed local goal in 3.1017e-05 seconds.
+[ INFO] [1743475719.158384058, 21.229597504]: [AStarPlanner] Path found in 0.0967576 seconds.
+[TerrainMap] Updated global map in 0.00219312 seconds.
+[TerrainMap] Iterated in 0.0021863 seconds.
+Computed local goal in 3.0665e-05 seconds.
+[ INFO] [1743475720.225069124, 21.329597506]: [AStarPlanner] Path found in 0.115097 seconds.
+[TerrainMap] Updated global map in 0.00220049 seconds.
+[TerrainMap] Iterated in 0.00219459 seconds.
+Computed local goal in 3.355e-05 seconds.
+[ INFO] [1743475720.387208981, 21.329597506]: [AStarPlanner] Path found in 0.109192 seconds.
+[TerrainMap] Updated global map in 0.00198219 seconds.
+[TerrainMap] Iterated in 0.00197712 seconds.
+Computed local goal in 2.8967e-05 seconds.
+[ INFO] [1743475721.428286954, 21.429597507]: [AStarPlanner] Path found in 0.106529 seconds.
+[TerrainMap] Updated global map in 0.00205523 seconds.
+[TerrainMap] Iterated in 0.00205074 seconds.
+Computed local goal in 3.093e-05 seconds.
+[ INFO] [1743475721.581717169, 21.429597507]: [AStarPlanner] Path found in 0.103698 seconds.
+[TerrainMap] Updated global map in 0.00226147 seconds.
+[TerrainMap] Iterated in 0.0022563 seconds.
+Computed local goal in 3.3373e-05 seconds.
+[ INFO] [1743475722.626012221, 21.529597509]: [AStarPlanner] Path found in 0.110957 seconds.
+[TerrainMap] Updated global map in 0.00219721 seconds.
+[TerrainMap] Iterated in 0.00219245 seconds.
+Computed local goal in 3.3819e-05 seconds.
+[ INFO] [1743475722.784928301, 21.529597509]: [AStarPlanner] Path found in 0.107762 seconds.
+[TerrainMap] Updated global map in 0.00200878 seconds.
+[TerrainMap] Iterated in 0.00200305 seconds.
+Computed local goal in 2.8892e-05 seconds.
+[ INFO] [1743475723.835926518, 21.629597510]: [AStarPlanner] Path found in 0.104758 seconds.
+[TerrainMap] Updated global map in 0.00196184 seconds.
+[TerrainMap] Iterated in 0.0019567 seconds.
+Computed local goal in 2.9041e-05 seconds.
+[ INFO] [1743475723.980570123, 21.629597510]: [AStarPlanner] Path found in 0.0986856 seconds.
+[TerrainMap] Updated global map in 0.00188356 seconds.
+[TerrainMap] Iterated in 0.00187806 seconds.
+Computed local goal in 2.8351e-05 seconds.
+[ INFO] [1743475725.022359272, 21.729597512]: [AStarPlanner] Path found in 0.105482 seconds.
+[TerrainMap] Updated global map in 0.00200805 seconds.
+[TerrainMap] Iterated in 0.00200344 seconds.
+Computed local goal in 2.9512e-05 seconds.
+[ INFO] [1743475725.179910529, 21.729597512]: [AStarPlanner] Path found in 0.107049 seconds.
+[TerrainMap] Updated global map in 0.001938 seconds.
+[TerrainMap] Iterated in 0.00193303 seconds.
+Computed local goal in 3.0053e-05 seconds.
+[ INFO] [1743475726.214766726, 21.829597513]: [AStarPlanner] Path found in 0.105713 seconds.
+[TerrainMap] Updated global map in 0.00207121 seconds.
+[TerrainMap] Iterated in 0.00206736 seconds.
+Computed local goal in 3.0546e-05 seconds.
+[ INFO] [1743475726.364620056, 21.829597513]: [AStarPlanner] Path found in 0.101141 seconds.
+[TerrainMap] Updated global map in 0.00239962 seconds.
+[TerrainMap] Iterated in 0.00239427 seconds.
+Computed local goal in 3.3107e-05 seconds.
+[ INFO] [1743475727.433980395, 21.929597515]: [AStarPlanner] Path found in 0.115254 seconds.
+[TerrainMap] Updated global map in 0.00210175 seconds.
+[TerrainMap] Iterated in 0.00209661 seconds.
+Computed local goal in 3.092e-05 seconds.
+[ INFO] [1743475727.596747104, 21.929597515]: [AStarPlanner] Path found in 0.112333 seconds.
+[TerrainMap] Updated global map in 0.00230568 seconds.
+[TerrainMap] Iterated in 0.00229975 seconds.
+Computed local goal in 3.281e-05 seconds.
+[ INFO] [1743475728.626478084, 22.029597516]: [AStarPlanner] Path found in 0.114388 seconds.
+[TerrainMap] Updated global map in 0.00307062 seconds.
+[TerrainMap] Iterated in 0.00306525 seconds.
+Computed local goal in 3.2664e-05 seconds.
+[ INFO] [1743475728.788617249, 22.029597516]: [AStarPlanner] Path found in 0.109768 seconds.
+[TerrainMap] Updated global map in 0.00229919 seconds.
+[TerrainMap] Iterated in 0.00229347 seconds.
+Computed local goal in 3.3815e-05 seconds.
+[ INFO] [1743475729.827969957, 22.129597518]: [AStarPlanner] Path found in 0.114361 seconds.
+[TerrainMap] Updated global map in 0.00210931 seconds.
+[TerrainMap] Iterated in 0.00210391 seconds.
+Computed local goal in 3.0398e-05 seconds.
+[ INFO] [1743475729.988416666, 22.129597518]: [AStarPlanner] Path found in 0.10743 seconds.
+[TerrainMap] Updated global map in 0.00214781 seconds.
+[TerrainMap] Iterated in 0.00214258 seconds.
+Computed local goal in 3.0183e-05 seconds.
+[ INFO] [1743475731.010169807, 22.229597519]: [AStarPlanner] Path found in 0.109426 seconds.
+[TerrainMap] Updated global map in 0.0021266 seconds.
+[TerrainMap] Iterated in 0.00212128 seconds.
+Computed local goal in 3.0141e-05 seconds.
+[ INFO] [1743475731.162656193, 22.229597519]: [AStarPlanner] Path found in 0.102656 seconds.
+[TerrainMap] Updated global map in 0.00214495 seconds.
+[TerrainMap] Iterated in 0.0021389 seconds.
+Computed local goal in 2.8499e-05 seconds.
+[ INFO] [1743475732.224182258, 22.329597521]: [AStarPlanner] Path found in 0.103584 seconds.
+[TerrainMap] Updated global map in 0.0018043 seconds.
+[TerrainMap] Iterated in 0.00180012 seconds.
+Computed local goal in 5.1058e-05 seconds.
+[ INFO] [1743475732.372433647, 22.329597521]: [AStarPlanner] Path found in 0.102448 seconds.
+[TerrainMap] Updated global map in 0.00217714 seconds.
+[TerrainMap] Iterated in 0.00217187 seconds.
+Computed local goal in 3.1016e-05 seconds.
+[ INFO] [1743475733.444884686, 22.429597522]: [AStarPlanner] Path found in 0.10649 seconds.
+[TerrainMap] Updated global map in 0.00192253 seconds.
+[TerrainMap] Iterated in 0.00191834 seconds.
+Computed local goal in 2.9839e-05 seconds.
+[ INFO] [1743475733.588232861, 22.429597522]: [AStarPlanner] Path found in 0.0976988 seconds.
+[TerrainMap] Updated global map in 0.00246023 seconds.
+[TerrainMap] Iterated in 0.0024546 seconds.
+Computed local goal in 3.5893e-05 seconds.
+[ INFO] [1743475734.653561760, 22.529597524]: [AStarPlanner] Path found in 0.113406 seconds.
+[TerrainMap] Updated global map in 0.00210955 seconds.
+[TerrainMap] Iterated in 0.0021047 seconds.
+Computed local goal in 3.1634e-05 seconds.
+[ INFO] [1743475734.812168887, 22.529597524]: [AStarPlanner] Path found in 0.108141 seconds.
+[TerrainMap] Updated global map in 0.00209446 seconds.
+[TerrainMap] Iterated in 0.00208914 seconds.
+Computed local goal in 3.0168e-05 seconds.
+[ INFO] [1743475735.842817224, 22.629597525]: [AStarPlanner] Path found in 0.10634 seconds.
+[TerrainMap] Updated global map in 0.00208612 seconds.
+[TerrainMap] Iterated in 0.00208211 seconds.
+Computed local goal in 3.0999e-05 seconds.
+[ INFO] [1743475735.995753300, 22.629597525]: [AStarPlanner] Path found in 0.103302 seconds.
+[TerrainMap] Updated global map in 0.00194578 seconds.
+[TerrainMap] Iterated in 0.00194035 seconds.
+Computed local goal in 3.3386e-05 seconds.
+[ INFO] [1743475737.046158005, 22.729597527]: [AStarPlanner] Path found in 0.107552 seconds.
+[TerrainMap] Updated global map in 0.00197661 seconds.
+[TerrainMap] Iterated in 0.00197078 seconds.
+Computed local goal in 2.9e-05 seconds.
+[ INFO] [1743475737.191483418, 22.729597527]: [AStarPlanner] Path found in 0.0987752 seconds.
+[TerrainMap] Updated global map in 0.00221207 seconds.
+[TerrainMap] Iterated in 0.00220664 seconds.
+Computed local goal in 4.7186e-05 seconds.
+[ INFO] [1743475738.230581034, 22.829597528]: [AStarPlanner] Path found in 0.106961 seconds.
+[TerrainMap] Updated global map in 0.00208901 seconds.
+[TerrainMap] Iterated in 0.00208457 seconds.
+Computed local goal in 3.2043e-05 seconds.
+[ INFO] [1743475738.387004236, 22.829597528]: [AStarPlanner] Path found in 0.105788 seconds.
+[TerrainMap] Updated global map in 0.00199239 seconds.
+[TerrainMap] Iterated in 0.00198699 seconds.
+Computed local goal in 2.9644e-05 seconds.
+[ INFO] [1743475739.411521536, 22.929597530]: [AStarPlanner] Path found in 0.0989353 seconds.
+[TerrainMap] Updated global map in 0.00210647 seconds.
+[TerrainMap] Iterated in 0.00210168 seconds.
+Computed local goal in 3.2209e-05 seconds.
+[ INFO] [1743475739.560083522, 22.929597530]: [AStarPlanner] Path found in 0.100743 seconds.
+[TerrainMap] Updated global map in 0.00282407 seconds.
+[TerrainMap] Iterated in 0.00281905 seconds.
+Computed local goal in 5.2798e-05 seconds.
+[ INFO] [1743475740.621806739, 23.029597531]: [AStarPlanner] Path found in 0.109819 seconds.
+[TerrainMap] Updated global map in 0.00212034 seconds.
+[TerrainMap] Iterated in 0.00211592 seconds.
+Computed local goal in 3.13e-05 seconds.
+[ INFO] [1743475740.777302740, 23.029597531]: [AStarPlanner] Path found in 0.104733 seconds.
+[TerrainMap] Updated global map in 0.00212147 seconds.
+[TerrainMap] Iterated in 0.00211589 seconds.
+Computed local goal in 2.9964e-05 seconds.
+[ INFO] [1743475741.803758739, 23.129597533]: [AStarPlanner] Path found in 0.104852 seconds.
+[TerrainMap] Updated global map in 0.00214722 seconds.
+[TerrainMap] Iterated in 0.00214263 seconds.
+Computed local goal in 3.1764e-05 seconds.
+[ INFO] [1743475741.954979361, 23.129597533]: [AStarPlanner] Path found in 0.102193 seconds.
+[TerrainMap] Updated global map in 0.00220578 seconds.
+[TerrainMap] Iterated in 0.00220023 seconds.
+Computed local goal in 3.4466e-05 seconds.
+[ INFO] [1743475743.007569157, 23.229597534]: [AStarPlanner] Path found in 0.115591 seconds.
+[TerrainMap] Updated global map in 0.00210258 seconds.
+[TerrainMap] Iterated in 0.00209843 seconds.
+Computed local goal in 3.2382e-05 seconds.
+[ INFO] [1743475743.162328577, 23.229597534]: [AStarPlanner] Path found in 0.102919 seconds.
+[TerrainMap] Updated global map in 0.00223383 seconds.
+[TerrainMap] Iterated in 0.00222843 seconds.
+Computed local goal in 3.269e-05 seconds.
+[ INFO] [1743475744.208104119, 23.329597536]: [AStarPlanner] Path found in 0.106854 seconds.
+[TerrainMap] Updated global map in 0.00202887 seconds.
+[TerrainMap] Iterated in 0.0020243 seconds.
+Computed local goal in 3.1259e-05 seconds.
+[ INFO] [1743475744.359521496, 23.329597536]: [AStarPlanner] Path found in 0.101555 seconds.
+[TerrainMap] Updated global map in 0.00244723 seconds.
+[TerrainMap] Iterated in 0.00244138 seconds.
+Computed local goal in 3.2172e-05 seconds.
+[ INFO] [1743475745.405659864, 23.429597537]: [AStarPlanner] Path found in 0.114681 seconds.
+[TerrainMap] Updated global map in 0.00218894 seconds.
+[TerrainMap] Iterated in 0.00218458 seconds.
+Computed local goal in 3.2527e-05 seconds.
+[ INFO] [1743475745.558185993, 23.429597537]: [AStarPlanner] Path found in 0.0996986 seconds.
+[TerrainMap] Updated global map in 0.00216498 seconds.
+[TerrainMap] Iterated in 0.00215969 seconds.
+Computed local goal in 4.058e-05 seconds.
+[ INFO] [1743475746.592095276, 23.529597538]: [AStarPlanner] Path found in 0.106736 seconds.
+[TerrainMap] Updated global map in 0.00213445 seconds.
+[TerrainMap] Iterated in 0.00212878 seconds.
+Computed local goal in 3.0878e-05 seconds.
+[ INFO] [1743475746.746182698, 23.529597538]: [AStarPlanner] Path found in 0.103821 seconds.
+[TerrainMap] Updated global map in 0.00205174 seconds.
+[TerrainMap] Iterated in 0.00204599 seconds.
+Computed local goal in 2.8548e-05 seconds.
+[ INFO] [1743475747.774341715, 23.629597540]: [AStarPlanner] Path found in 0.10196 seconds.
+[TerrainMap] Updated global map in 0.00211259 seconds.
+[TerrainMap] Iterated in 0.00210792 seconds.
+Computed local goal in 3.1534e-05 seconds.
+[ INFO] [1743475747.929175536, 23.629597540]: [AStarPlanner] Path found in 0.104679 seconds.
+[TerrainMap] Updated global map in 0.00234485 seconds.
+[TerrainMap] Iterated in 0.00233503 seconds.
+Computed local goal in 3.0691e-05 seconds.
+[ INFO] [1743475748.993231847, 23.729597541]: [AStarPlanner] Path found in 0.107391 seconds.
+[TerrainMap] Updated global map in 0.00205613 seconds.
+[TerrainMap] Iterated in 0.00205105 seconds.
+Computed local goal in 3.0452e-05 seconds.
+[ INFO] [1743475749.145255956, 23.729597541]: [AStarPlanner] Path found in 0.102222 seconds.
+[TerrainMap] Updated global map in 0.0021487 seconds.
+[TerrainMap] Iterated in 0.00214331 seconds.
+Computed local goal in 3.1191e-05 seconds.
+[ INFO] [1743475750.216614553, 23.829597543]: [AStarPlanner] Path found in 0.106681 seconds.
+[TerrainMap] Updated global map in 0.00219372 seconds.
+[TerrainMap] Iterated in 0.00218889 seconds.
+Computed local goal in 2.9991e-05 seconds.
+[ INFO] [1743475750.369618142, 23.829597543]: [AStarPlanner] Path found in 0.103263 seconds.
+[TerrainMap] Updated global map in 0.00200484 seconds.
+[TerrainMap] Iterated in 0.00199943 seconds.
+Computed local goal in 2.8479e-05 seconds.
+[ INFO] [1743475751.399321338, 23.929597544]: [AStarPlanner] Path found in 0.10053 seconds.
+[TerrainMap] Updated global map in 0.00187491 seconds.
+[TerrainMap] Iterated in 0.00187054 seconds.
+Computed local goal in 2.8064e-05 seconds.
+[ INFO] [1743475751.547653939, 23.929597544]: [AStarPlanner] Path found in 0.100911 seconds.
+[TerrainMap] Updated global map in 0.00208136 seconds.
+[TerrainMap] Iterated in 0.00207569 seconds.
+Computed local goal in 2.8031e-05 seconds.
+[ INFO] [1743475752.594004407, 24.029597546]: [AStarPlanner] Path found in 0.102661 seconds.
+[TerrainMap] Updated global map in 0.00188112 seconds.
+[TerrainMap] Iterated in 0.00187601 seconds.
+Computed local goal in 2.9396e-05 seconds.
+[ INFO] [1743475752.743788433, 24.029597546]: [AStarPlanner] Path found in 0.104006 seconds.
+[TerrainMap] Updated global map in 0.00193249 seconds.
+[TerrainMap] Iterated in 0.00192681 seconds.
+Computed local goal in 2.8087e-05 seconds.
+[ INFO] [1743475753.785707411, 24.129597547]: [AStarPlanner] Path found in 0.102716 seconds.
+[TerrainMap] Updated global map in 0.00209122 seconds.
+[TerrainMap] Iterated in 0.00208587 seconds.
+Computed local goal in 3.0182e-05 seconds.
+[ INFO] [1743475753.941635445, 24.129597547]: [AStarPlanner] Path found in 0.107873 seconds.
+[TerrainMap] Updated global map in 0.00230254 seconds.
+[TerrainMap] Iterated in 0.00229523 seconds.
+Computed local goal in 3.1264e-05 seconds.
+[ INFO] [1743475754.989057158, 24.229597549]: [AStarPlanner] Path found in 0.11147 seconds.
+[TerrainMap] Updated global map in 0.00212039 seconds.
+[TerrainMap] Iterated in 0.00211512 seconds.
+Computed local goal in 3.244e-05 seconds.
+[ INFO] [1743475755.142613613, 24.229597549]: [AStarPlanner] Path found in 0.103694 seconds.
+[TerrainMap] Updated global map in 0.002198 seconds.
+[TerrainMap] Iterated in 0.00219199 seconds.
+Computed local goal in 3.1382e-05 seconds.
+[ INFO] [1743475756.204575662, 24.329597550]: [AStarPlanner] Path found in 0.1166 seconds.
+[TerrainMap] Updated global map in 0.00239556 seconds.
+[TerrainMap] Iterated in 0.00238974 seconds.
+Computed local goal in 3.2728e-05 seconds.
+[ INFO] [1743475756.359671762, 24.329597550]: [AStarPlanner] Path found in 0.105749 seconds.
+[TerrainMap] Updated global map in 0.00235907 seconds.
+[TerrainMap] Iterated in 0.00235371 seconds.
+Computed local goal in 4.2004e-05 seconds.
+[ INFO] [1743475757.426796883, 24.429597552]: [AStarPlanner] Path found in 0.110838 seconds.
+[TerrainMap] Updated global map in 0.00200132 seconds.
+[TerrainMap] Iterated in 0.00199594 seconds.
+Computed local goal in 2.9239e-05 seconds.
+[ INFO] [1743475757.576222093, 24.429597552]: [AStarPlanner] Path found in 0.0999255 seconds.
+[TerrainMap] Updated global map in 0.00233187 seconds.
+[TerrainMap] Iterated in 0.00232656 seconds.
+Computed local goal in 3.2039e-05 seconds.
+[ INFO] [1743475758.620217019, 24.529597553]: [AStarPlanner] Path found in 0.109796 seconds.
+[TerrainMap] Updated global map in 0.00218693 seconds.
+[TerrainMap] Iterated in 0.00218239 seconds.
+Computed local goal in 3.2223e-05 seconds.
+[ INFO] [1743475758.774871722, 24.529597553]: [AStarPlanner] Path found in 0.104431 seconds.
+[TerrainMap] Updated global map in 0.00219108 seconds.
+[TerrainMap] Iterated in 0.00218508 seconds.
+Computed local goal in 3.7961e-05 seconds.
+[ INFO] [1743475759.822551799, 24.629597555]: [AStarPlanner] Path found in 0.105584 seconds.
+[TerrainMap] Updated global map in 0.00210665 seconds.
+[TerrainMap] Iterated in 0.00210167 seconds.
+Computed local goal in 3.1873e-05 seconds.
+[ INFO] [1743475759.975544519, 24.629597555]: [AStarPlanner] Path found in 0.104563 seconds.
+[TerrainMap] Updated global map in 0.00227705 seconds.
+[TerrainMap] Iterated in 0.0022707 seconds.
+Computed local goal in 3.1752e-05 seconds.
+[ INFO] [1743475761.018248322, 24.729597556]: [AStarPlanner] Path found in 0.109787 seconds.
+[TerrainMap] Updated global map in 0.00226759 seconds.
+[TerrainMap] Iterated in 0.00226211 seconds.
+Computed local goal in 3.3693e-05 seconds.
+[ INFO] [1743475761.171856895, 24.729597556]: [AStarPlanner] Path found in 0.103095 seconds.
+[TerrainMap] Updated global map in 0.00330769 seconds.
+[TerrainMap] Iterated in 0.00330177 seconds.
+Computed local goal in 3.4433e-05 seconds.
+[ INFO] [1743475762.216680897, 24.829597558]: [AStarPlanner] Path found in 0.116484 seconds.
+[TerrainMap] Updated global map in 0.00216901 seconds.
+[TerrainMap] Iterated in 0.00216509 seconds.
+Computed local goal in 3.1527e-05 seconds.
+[ INFO] [1743475762.381116368, 24.829597558]: [AStarPlanner] Path found in 0.112019 seconds.
+[TerrainMap] Updated global map in 0.00202743 seconds.
+[TerrainMap] Iterated in 0.00202215 seconds.
+Computed local goal in 2.8418e-05 seconds.
+[ INFO] [1743475763.402854414, 24.929597559]: [AStarPlanner] Path found in 0.10913 seconds.
+[TerrainMap] Updated global map in 0.00203695 seconds.
+[TerrainMap] Iterated in 0.00203284 seconds.
+Computed local goal in 3.0897e-05 seconds.
+[ INFO] [1743475763.552334638, 24.929597559]: [AStarPlanner] Path found in 0.100523 seconds.
+[TerrainMap] Updated global map in 0.00224019 seconds.
+[TerrainMap] Iterated in 0.00223486 seconds.
+Computed local goal in 4.0041e-05 seconds.
+[ INFO] [1743475764.595791750, 25.029597561]: [AStarPlanner] Path found in 0.107397 seconds.
+[TerrainMap] Updated global map in 0.00213496 seconds.
+[TerrainMap] Iterated in 0.00212932 seconds.
+Computed local goal in 3.1483e-05 seconds.
+[ INFO] [1743475764.749271762, 25.029597561]: [AStarPlanner] Path found in 0.104589 seconds.
+[TerrainMap] Updated global map in 0.00216488 seconds.
+[TerrainMap] Iterated in 0.00215935 seconds.
+Computed local goal in 3.1883e-05 seconds.
+[ INFO] [1743475765.800935667, 25.129597562]: [AStarPlanner] Path found in 0.106394 seconds.
+[TerrainMap] Updated global map in 0.00209574 seconds.
+[TerrainMap] Iterated in 0.00209143 seconds.
+Computed local goal in 3.2206e-05 seconds.
+[ INFO] [1743475765.955077167, 25.129597562]: [AStarPlanner] Path found in 0.104474 seconds.
+[TerrainMap] Updated global map in 0.00220136 seconds.
+[TerrainMap] Iterated in 0.00219589 seconds.
+Computed local goal in 3.1339e-05 seconds.
+[ INFO] [1743475766.992268498, 25.229597564]: [AStarPlanner] Path found in 0.10778 seconds.
+[TerrainMap] Updated global map in 0.00201013 seconds.
+[TerrainMap] Iterated in 0.00200544 seconds.
+Computed local goal in 2.9764e-05 seconds.
+[ INFO] [1743475767.141757375, 25.229597564]: [AStarPlanner] Path found in 0.102337 seconds.
+[TerrainMap] Updated global map in 0.00201398 seconds.
+[TerrainMap] Iterated in 0.00200873 seconds.
+Computed local goal in 2.9399e-05 seconds.
+[ INFO] [1743475768.170791102, 25.329597565]: [AStarPlanner] Path found in 0.0980745 seconds.
+[TerrainMap] Updated global map in 0.00211265 seconds.
+[TerrainMap] Iterated in 0.00210762 seconds.
+Computed local goal in 2.9766e-05 seconds.
+[ INFO] [1743475768.317903923, 25.329597565]: [AStarPlanner] Path found in 0.100359 seconds.
+[TerrainMap] Updated global map in 0.0023339 seconds.
+[TerrainMap] Iterated in 0.00232879 seconds.
+Computed local goal in 3.045e-05 seconds.
+[ INFO] [1743475769.370884539, 25.429597567]: [AStarPlanner] Path found in 0.108882 seconds.
+[TerrainMap] Updated global map in 0.00206211 seconds.
+[TerrainMap] Iterated in 0.00205691 seconds.
+Computed local goal in 3.0005e-05 seconds.
+[ INFO] [1743475769.524859911, 25.429597567]: [AStarPlanner] Path found in 0.103788 seconds.
+[TerrainMap] Updated global map in 0.00203513 seconds.
+[TerrainMap] Iterated in 0.00202987 seconds.
+Computed local goal in 2.9221e-05 seconds.
+[ INFO] [1743475770.562626198, 25.529597568]: [AStarPlanner] Path found in 0.102786 seconds.
+[TerrainMap] Updated global map in 0.00220552 seconds.
+[TerrainMap] Iterated in 0.00220102 seconds.
+Computed local goal in 3.3161e-05 seconds.
+[ INFO] [1743475770.719964600, 25.529597568]: [AStarPlanner] Path found in 0.106109 seconds.
+[TerrainMap] Updated global map in 0.0023562 seconds.
+[TerrainMap] Iterated in 0.00235045 seconds.
+Computed local goal in 3.3728e-05 seconds.
+[ INFO] [1743475771.785611613, 25.629597570]: [AStarPlanner] Path found in 0.11339 seconds.
+[TerrainMap] Updated global map in 0.0021535 seconds.
+[TerrainMap] Iterated in 0.00214888 seconds.
+Computed local goal in 3.2583e-05 seconds.
+[ INFO] [1743475771.946599226, 25.629597570]: [AStarPlanner] Path found in 0.109423 seconds.
+[TerrainMap] Updated global map in 0.00217188 seconds.
+[TerrainMap] Iterated in 0.00216609 seconds.
+Computed local goal in 3.1715e-05 seconds.
+[ INFO] [1743475772.990066449, 25.729597571]: [AStarPlanner] Path found in 0.104912 seconds.
+[TerrainMap] Updated global map in 0.00213876 seconds.
+[TerrainMap] Iterated in 0.00213336 seconds.
+Computed local goal in 3.1909e-05 seconds.
+[ INFO] [1743475773.144364484, 25.729597571]: [AStarPlanner] Path found in 0.104634 seconds.
+[TerrainMap] Updated global map in 0.00262618 seconds.
+[TerrainMap] Iterated in 0.00261944 seconds.
+Computed local goal in 4.3711e-05 seconds.
+[ INFO] [1743475774.193943459, 25.829597573]: [AStarPlanner] Path found in 0.103985 seconds.
+[TerrainMap] Updated global map in 0.00200237 seconds.
+[TerrainMap] Iterated in 0.00199679 seconds.
+Computed local goal in 2.8617e-05 seconds.
+[ INFO] [1743475774.343024194, 25.829597573]: [AStarPlanner] Path found in 0.100924 seconds.
+[TerrainMap] Updated global map in 0.00270968 seconds.
+[TerrainMap] Iterated in 0.00270299 seconds.
+Computed local goal in 4.1698e-05 seconds.
+[ INFO] [1743475775.427675209, 25.929597574]: [AStarPlanner] Path found in 0.118844 seconds.
+[TerrainMap] Updated global map in 0.00238148 seconds.
+[TerrainMap] Iterated in 0.00237534 seconds.
+Computed local goal in 3.3334e-05 seconds.
+[ INFO] [1743475775.610859583, 25.929597574]: [AStarPlanner] Path found in 0.125422 seconds.
+[TerrainMap] Updated global map in 0.00276705 seconds.
+[TerrainMap] Iterated in 0.00276028 seconds.
+Computed local goal in 3.364e-05 seconds.
+[ INFO] [1743475776.638539678, 26.029597576]: [AStarPlanner] Path found in 0.112137 seconds.
+[TerrainMap] Updated global map in 0.00224688 seconds.
+[TerrainMap] Iterated in 0.00224199 seconds.
+Computed local goal in 2.945e-05 seconds.
+[ INFO] [1743475776.791846800, 26.029597576]: [AStarPlanner] Path found in 0.106643 seconds.
+[TerrainMap] Updated global map in 0.00220002 seconds.
+[TerrainMap] Iterated in 0.00219478 seconds.
+Computed local goal in 3.2686e-05 seconds.
+[ INFO] [1743475777.841774754, 26.129597577]: [AStarPlanner] Path found in 0.110012 seconds.
+[TerrainMap] Updated global map in 0.00213619 seconds.
+[TerrainMap] Iterated in 0.00213159 seconds.
+Computed local goal in 3.3173e-05 seconds.
+[ INFO] [1743475777.998062351, 26.129597577]: [AStarPlanner] Path found in 0.105339 seconds.
+[TerrainMap] Updated global map in 0.00235388 seconds.
+[TerrainMap] Iterated in 0.00234818 seconds.
+Computed local goal in 3.2441e-05 seconds.
+[ INFO] [1743475779.039234990, 26.229597579]: [AStarPlanner] Path found in 0.105527 seconds.
+[TerrainMap] Updated global map in 0.00184516 seconds.
+[TerrainMap] Iterated in 0.00184071 seconds.
+Computed local goal in 2.7048e-05 seconds.
+[ INFO] [1743475779.184774259, 26.229597579]: [AStarPlanner] Path found in 0.0990808 seconds.
+[TerrainMap] Updated global map in 0.00226993 seconds.
+[TerrainMap] Iterated in 0.0022642 seconds.
+Computed local goal in 3.3803e-05 seconds.
+[ INFO] [1743475780.236820623, 26.329597580]: [AStarPlanner] Path found in 0.109994 seconds.
+[TerrainMap] Updated global map in 0.00225487 seconds.
+[TerrainMap] Iterated in 0.00224866 seconds.
+Computed local goal in 3.2618e-05 seconds.
+[ INFO] [1743475780.399495941, 26.329597580]: [AStarPlanner] Path found in 0.109728 seconds.
+[TerrainMap] Updated global map in 0.00205304 seconds.
+[TerrainMap] Iterated in 0.00204783 seconds.
+Computed local goal in 3.2357e-05 seconds.
+[ INFO] [1743475781.439384001, 26.429597582]: [AStarPlanner] Path found in 0.112127 seconds.
+[TerrainMap] Updated global map in 0.00213335 seconds.
+[TerrainMap] Iterated in 0.00212739 seconds.
+Computed local goal in 3.2343e-05 seconds.
+[ INFO] [1743475781.598817603, 26.429597582]: [AStarPlanner] Path found in 0.107526 seconds.
+[TerrainMap] Updated global map in 0.00205169 seconds.
+[TerrainMap] Iterated in 0.00204622 seconds.
+Computed local goal in 3.2468e-05 seconds.
+[ INFO] [1743475782.641505354, 26.529597583]: [AStarPlanner] Path found in 0.101435 seconds.
+[TerrainMap] Updated global map in 0.00200177 seconds.
+[TerrainMap] Iterated in 0.00199581 seconds.
+Computed local goal in 3.0378e-05 seconds.
+[ INFO] [1743475782.793813308, 26.529597583]: [AStarPlanner] Path found in 0.102231 seconds.
+[TerrainMap] Updated global map in 0.00255917 seconds.
+[TerrainMap] Iterated in 0.00255342 seconds.
+Computed local goal in 4.7012e-05 seconds.
+[ INFO] [1743475783.869144429, 26.629597585]: [AStarPlanner] Path found in 0.120727 seconds.
+[TerrainMap] Updated global map in 0.00215189 seconds.
+[TerrainMap] Iterated in 0.00214665 seconds.
+Computed local goal in 3.1704e-05 seconds.
+[ INFO] [1743475784.026760723, 26.629597585]: [AStarPlanner] Path found in 0.105451 seconds.
+[TerrainMap] Updated global map in 0.00239667 seconds.
+[TerrainMap] Iterated in 0.00239073 seconds.
+Computed local goal in 3.1342e-05 seconds.
+[ INFO] [1743475785.080412032, 26.729597586]: [AStarPlanner] Path found in 0.113757 seconds.
+[TerrainMap] Updated global map in 0.00237541 seconds.
+[TerrainMap] Iterated in 0.00236883 seconds.
+Computed local goal in 3.3548e-05 seconds.
+[ INFO] [1743475785.243738227, 26.729597586]: [AStarPlanner] Path found in 0.110482 seconds.
+[TerrainMap] Updated global map in 0.00232572 seconds.
+[TerrainMap] Iterated in 0.00231836 seconds.
+Computed local goal in 3.278e-05 seconds.
+[ INFO] [1743475786.291239886, 26.829597588]: [AStarPlanner] Path found in 0.110267 seconds.
+[TerrainMap] Updated global map in 0.00222855 seconds.
+[TerrainMap] Iterated in 0.00222301 seconds.
+Computed local goal in 3.2441e-05 seconds.
+[ INFO] [1743475786.452526777, 26.829597588]: [AStarPlanner] Path found in 0.106994 seconds.
+[TerrainMap] Updated global map in 0.00219798 seconds.
+[TerrainMap] Iterated in 0.00219167 seconds.
+Computed local goal in 3.1646e-05 seconds.
+[ INFO] [1743475787.499677000, 26.929597589]: [AStarPlanner] Path found in 0.115429 seconds.
+[TerrainMap] Updated global map in 0.00232105 seconds.
+[TerrainMap] Iterated in 0.00231516 seconds.
+Computed local goal in 3.9434e-05 seconds.
+[ INFO] [1743475787.668778438, 26.929597589]: [AStarPlanner] Path found in 0.114529 seconds.
+[TerrainMap] Updated global map in 0.00222716 seconds.
+[TerrainMap] Iterated in 0.00222043 seconds.
+Computed local goal in 3.1834e-05 seconds.
+[ INFO] [1743475788.701658497, 27.029597591]: [AStarPlanner] Path found in 0.108978 seconds.
+[TerrainMap] Updated global map in 0.00217069 seconds.
+[TerrainMap] Iterated in 0.00216549 seconds.
+Computed local goal in 3.2061e-05 seconds.
+[ INFO] [1743475788.858872225, 27.029597591]: [AStarPlanner] Path found in 0.105517 seconds.
+[TerrainMap] Updated global map in 0.00189738 seconds.
+[TerrainMap] Iterated in 0.00189242 seconds.
+Computed local goal in 2.7389e-05 seconds.
+[ INFO] [1743475789.894999701, 27.129597592]: [AStarPlanner] Path found in 0.102509 seconds.
+[TerrainMap] Updated global map in 0.00213076 seconds.
+[TerrainMap] Iterated in 0.00212591 seconds.
+Computed local goal in 3.2437e-05 seconds.
+[ INFO] [1743475790.053620256, 27.129597592]: [AStarPlanner] Path found in 0.108817 seconds.
+[TerrainMap] Updated global map in 0.00236791 seconds.
+[TerrainMap] Iterated in 0.00236166 seconds.
+Computed local goal in 3.0675e-05 seconds.
+[ INFO] [1743475791.128530673, 27.229597594]: [AStarPlanner] Path found in 0.112107 seconds.
+[TerrainMap] Updated global map in 0.00230195 seconds.
+[TerrainMap] Iterated in 0.00229605 seconds.
+Computed local goal in 3.4397e-05 seconds.
+[ INFO] [1743475791.293557686, 27.229597594]: [AStarPlanner] Path found in 0.108928 seconds.
+[TerrainMap] Updated global map in 0.00222683 seconds.
+[TerrainMap] Iterated in 0.0022207 seconds.
+Computed local goal in 3.2481e-05 seconds.
+[ INFO] [1743475792.365147422, 27.329597595]: [AStarPlanner] Path found in 0.114725 seconds.
+[TerrainMap] Updated global map in 0.00222234 seconds.
+[TerrainMap] Iterated in 0.00221672 seconds.
+Computed local goal in 3.3526e-05 seconds.
+[ INFO] [1743475792.530657749, 27.329597595]: [AStarPlanner] Path found in 0.108914 seconds.
+[TerrainMap] Updated global map in 0.00248435 seconds.
+[TerrainMap] Iterated in 0.00247842 seconds.
+Computed local goal in 4.0611e-05 seconds.
+[ INFO] [1743475793.596475480, 27.429597597]: [AStarPlanner] Path found in 0.116833 seconds.
+[TerrainMap] Updated global map in 0.00221183 seconds.
+[TerrainMap] Iterated in 0.00220627 seconds.
+Computed local goal in 3.2923e-05 seconds.
+[ INFO] [1743475793.761191769, 27.429597597]: [AStarPlanner] Path found in 0.112207 seconds.
+[TerrainMap] Updated global map in 0.00208728 seconds.
+[TerrainMap] Iterated in 0.00208189 seconds.
+Computed local goal in 3.885e-05 seconds.
+[ INFO] [1743475794.794088615, 27.529597598]: [AStarPlanner] Path found in 0.107438 seconds.
+[TerrainMap] Updated global map in 0.00226184 seconds.
+[TerrainMap] Iterated in 0.00225668 seconds.
+Computed local goal in 3.2558e-05 seconds.
+[ INFO] [1743475794.947912899, 27.529597598]: [AStarPlanner] Path found in 0.104127 seconds.
+[TerrainMap] Updated global map in 0.00233613 seconds.
+[TerrainMap] Iterated in 0.00233047 seconds.
+Computed local goal in 3.0862e-05 seconds.
+[ INFO] [1743475796.028935280, 27.629597600]: [AStarPlanner] Path found in 0.111753 seconds.
+[TerrainMap] Updated global map in 0.0021529 seconds.
+[TerrainMap] Iterated in 0.00214788 seconds.
+Computed local goal in 3.2196e-05 seconds.
+[ INFO] [1743475796.186637485, 27.629597600]: [AStarPlanner] Path found in 0.106435 seconds.
+[TerrainMap] Updated global map in 0.00234017 seconds.
+[TerrainMap] Iterated in 0.00233329 seconds.
+Computed local goal in 3.2245e-05 seconds.
+[ INFO] [1743475797.242747276, 27.729597601]: [AStarPlanner] Path found in 0.10856 seconds.
+[TerrainMap] Updated global map in 0.00215106 seconds.
+[TerrainMap] Iterated in 0.00214592 seconds.
+Computed local goal in 3.1549e-05 seconds.
+[ INFO] [1743475797.398321663, 27.729597601]: [AStarPlanner] Path found in 0.105384 seconds.
+[TerrainMap] Updated global map in 0.0021756 seconds.
+[TerrainMap] Iterated in 0.00217021 seconds.
+Computed local goal in 3.2909e-05 seconds.
+[ INFO] [1743475798.460668180, 27.829597603]: [AStarPlanner] Path found in 0.112053 seconds.
+[TerrainMap] Updated global map in 0.00218851 seconds.
+[TerrainMap] Iterated in 0.00218368 seconds.
+Computed local goal in 3.3789e-05 seconds.
+[ INFO] [1743475798.620793484, 27.829597603]: [AStarPlanner] Path found in 0.109632 seconds.
+[TerrainMap] Updated global map in 0.0023409 seconds.
+[TerrainMap] Iterated in 0.00233456 seconds.
+Computed local goal in 3.3734e-05 seconds.
+[ INFO] [1743475799.683347372, 27.929597604]: [AStarPlanner] Path found in 0.11761 seconds.
+[TerrainMap] Updated global map in 0.00230115 seconds.
+[TerrainMap] Iterated in 0.00229623 seconds.
+Computed local goal in 3.3592e-05 seconds.
+[ INFO] [1743475799.848186361, 27.929597604]: [AStarPlanner] Path found in 0.110178 seconds.
+[TerrainMap] Updated global map in 0.0025551 seconds.
+[TerrainMap] Iterated in 0.00254902 seconds.
+Computed local goal in 3.3304e-05 seconds.
+[ INFO] [1743475800.908025262, 28.029597606]: [AStarPlanner] Path found in 0.116195 seconds.
+[TerrainMap] Updated global map in 0.00223342 seconds.
+[TerrainMap] Iterated in 0.00222886 seconds.
+Computed local goal in 3.2915e-05 seconds.
+[ INFO] [1743475801.066381481, 28.029597606]: [AStarPlanner] Path found in 0.106084 seconds.
+[TerrainMap] Updated global map in 0.00222982 seconds.
+[TerrainMap] Iterated in 0.00222322 seconds.
+Computed local goal in 3.309e-05 seconds.
+[ INFO] [1743475802.105879965, 28.129597607]: [AStarPlanner] Path found in 0.11479 seconds.
+[TerrainMap] Updated global map in 0.00225382 seconds.
+[TerrainMap] Iterated in 0.00224843 seconds.
+Computed local goal in 3.3695e-05 seconds.
+[ INFO] [1743475802.270283492, 28.129597607]: [AStarPlanner] Path found in 0.111226 seconds.
+[TerrainMap] Updated global map in 0.00253327 seconds.
+[TerrainMap] Iterated in 0.00252786 seconds.
+Computed local goal in 3.3051e-05 seconds.
+[ INFO] [1743475803.327808575, 28.229597609]: [AStarPlanner] Path found in 0.11687 seconds.
+[TerrainMap] Updated global map in 0.00223716 seconds.
+[TerrainMap] Iterated in 0.00223178 seconds.
+Computed local goal in 3.2809e-05 seconds.
+[ INFO] [1743475803.486356988, 28.229597609]: [AStarPlanner] Path found in 0.104126 seconds.
+[TerrainMap] Updated global map in 0.00240851 seconds.
+[TerrainMap] Iterated in 0.00240309 seconds.
+Computed local goal in 3.4381e-05 seconds.
+[ INFO] [1743475804.562758987, 28.329597610]: [AStarPlanner] Path found in 0.117371 seconds.
+[TerrainMap] Updated global map in 0.00222734 seconds.
+[TerrainMap] Iterated in 0.00222231 seconds.
+Computed local goal in 3.1892e-05 seconds.
+[ INFO] [1743475804.733157293, 28.329597610]: [AStarPlanner] Path found in 0.114719 seconds.
+[TerrainMap] Updated global map in 0.00217249 seconds.
+[TerrainMap] Iterated in 0.00216706 seconds.
+Computed local goal in 3.0972e-05 seconds.
+[ INFO] [1743475805.788989822, 28.429597612]: [AStarPlanner] Path found in 0.105757 seconds.
+[TerrainMap] Updated global map in 0.00226339 seconds.
+[TerrainMap] Iterated in 0.00225854 seconds.
+Computed local goal in 2.9385e-05 seconds.
+[ INFO] [1743475805.940999396, 28.429597612]: [AStarPlanner] Path found in 0.101766 seconds.
+[TerrainMap] Updated global map in 0.0025497 seconds.
+[TerrainMap] Iterated in 0.00254361 seconds.
+Computed local goal in 3.3131e-05 seconds.
+[ INFO] [1743475807.013113374, 28.529597613]: [AStarPlanner] Path found in 0.118807 seconds.
+[TerrainMap] Updated global map in 0.00225436 seconds.
+[TerrainMap] Iterated in 0.00224877 seconds.
+Computed local goal in 3.8538e-05 seconds.
+[ INFO] [1743475807.181090390, 28.529597613]: [AStarPlanner] Path found in 0.111922 seconds.
+[TerrainMap] Updated global map in 0.00239631 seconds.
+[TerrainMap] Iterated in 0.00239043 seconds.
+Computed local goal in 3.2689e-05 seconds.
+[ INFO] [1743475808.217759778, 28.629597614]: [AStarPlanner] Path found in 0.114038 seconds.
+[TerrainMap] Updated global map in 0.00205434 seconds.
+[TerrainMap] Iterated in 0.00204933 seconds.
+Computed local goal in 3.0486e-05 seconds.
+[ INFO] [1743475808.367267981, 28.629597614]: [AStarPlanner] Path found in 0.101194 seconds.
+[TerrainMap] Updated global map in 0.00249174 seconds.
+[TerrainMap] Iterated in 0.00248573 seconds.
+Computed local goal in 3.7476e-05 seconds.
+[ INFO] [1743475809.432033645, 28.729597616]: [AStarPlanner] Path found in 0.116367 seconds.
+[TerrainMap] Updated global map in 0.00225857 seconds.
+[TerrainMap] Iterated in 0.002254 seconds.
+Computed local goal in 3.2014e-05 seconds.
+[ INFO] [1743475809.591184859, 28.729597616]: [AStarPlanner] Path found in 0.107838 seconds.
+[TerrainMap] Updated global map in 0.00228501 seconds.
+[TerrainMap] Iterated in 0.00227874 seconds.
+Computed local goal in 3.3293e-05 seconds.
+[ INFO] [1743475810.621307763, 28.829597617]: [AStarPlanner] Path found in 0.106605 seconds.
+[TerrainMap] Updated global map in 0.00191542 seconds.
+[TerrainMap] Iterated in 0.00191016 seconds.
+Computed local goal in 2.8701e-05 seconds.
+[ INFO] [1743475810.773408238, 28.829597617]: [AStarPlanner] Path found in 0.102082 seconds.
+[TerrainMap] Updated global map in 0.00258667 seconds.
+[TerrainMap] Iterated in 0.00257948 seconds.
+Computed local goal in 4.5946e-05 seconds.
+[ INFO] [1743475811.841725675, 28.929597619]: [AStarPlanner] Path found in 0.113819 seconds.
+[TerrainMap] Updated global map in 0.0020799 seconds.
+[TerrainMap] Iterated in 0.00207466 seconds.
+Computed local goal in 3.1879e-05 seconds.
+[ INFO] [1743475811.996682385, 28.929597619]: [AStarPlanner] Path found in 0.104894 seconds.
+[TerrainMap] Updated global map in 0.0022464 seconds.
+[TerrainMap] Iterated in 0.00223957 seconds.
+Computed local goal in 3.1074e-05 seconds.
+[ INFO] [1743475813.051247221, 29.029597620]: [AStarPlanner] Path found in 0.113744 seconds.
+[TerrainMap] Updated global map in 0.00251435 seconds.
+[TerrainMap] Iterated in 0.0025079 seconds.
+Computed local goal in 4.3436e-05 seconds.
+[ INFO] [1743475813.213226586, 29.029597620]: [AStarPlanner] Path found in 0.109694 seconds.
+[TerrainMap] Updated global map in 0.00230508 seconds.
+[TerrainMap] Iterated in 0.00229837 seconds.
+Computed local goal in 3.1753e-05 seconds.
+[ INFO] [1743475814.280545744, 29.129597622]: [AStarPlanner] Path found in 0.112252 seconds.
+[TerrainMap] Updated global map in 0.00212326 seconds.
+[TerrainMap] Iterated in 0.00211841 seconds.
+Computed local goal in 3.4571e-05 seconds.
+[ INFO] [1743475814.440651320, 29.129597622]: [AStarPlanner] Path found in 0.10893 seconds.
+[TerrainMap] Updated global map in 0.00213893 seconds.
+[TerrainMap] Iterated in 0.00213343 seconds.
+Computed local goal in 3.2751e-05 seconds.
+[ INFO] [1743475815.493359629, 29.229597623]: [AStarPlanner] Path found in 0.11223 seconds.
+[TerrainMap] Updated global map in 0.001971 seconds.
+[TerrainMap] Iterated in 0.00196581 seconds.
+Computed local goal in 3.1621e-05 seconds.
+[ INFO] [1743475815.650528450, 29.229597623]: [AStarPlanner] Path found in 0.108057 seconds.
+[TerrainMap] Updated global map in 0.00268692 seconds.
+[TerrainMap] Iterated in 0.00267906 seconds.
+Computed local goal in 3.25e-05 seconds.
+[ INFO] [1743475816.737785063, 29.329597625]: [AStarPlanner] Path found in 0.124008 seconds.
+[TerrainMap] Updated global map in 0.00231289 seconds.
+[TerrainMap] Iterated in 0.0023074 seconds.
+Computed local goal in 3.2227e-05 seconds.
+[ INFO] [1743475816.923399323, 29.429597626]: [AStarPlanner] Path found in 0.120381 seconds.
+[TerrainMap] Updated global map in 0.00446656 seconds.
+[TerrainMap] Iterated in 0.00446085 seconds.
+Computed local goal in 4.9612e-05 seconds.
+[ INFO] [1743475817.104980466, 29.529597628]: [AStarPlanner] Path found in 0.122159 seconds.
+[TerrainMap] Updated global map in 0.00220647 seconds.
+[TerrainMap] Iterated in 0.00220082 seconds.
+Computed local goal in 3.3074e-05 seconds.
+[ INFO] [1743475817.286267143, 29.629597629]: [AStarPlanner] Path found in 0.126684 seconds.
+[TerrainMap] Updated global map in 0.00238393 seconds.
+[TerrainMap] Iterated in 0.00237795 seconds.
+Computed local goal in 3.5779e-05 seconds.
+[ INFO] [1743475817.470503748, 29.729597631]: [AStarPlanner] Path found in 0.1257 seconds.
+[TerrainMap] Updated global map in 0.00235679 seconds.
+[TerrainMap] Iterated in 0.00235094 seconds.
+Computed local goal in 3.6369e-05 seconds.
+[ INFO] [1743475817.643419945, 29.729597631]: [AStarPlanner] Path found in 0.117521 seconds.
+[TerrainMap] Updated global map in 0.00217413 seconds.
+[TerrainMap] Iterated in 0.00216845 seconds.
+Computed local goal in 3.159e-05 seconds.
+[ INFO] [1743475817.872960829, 29.829597632]: [AStarPlanner] Path found in 0.114548 seconds.
+[TerrainMap] Updated global map in 0.00234265 seconds.
+[TerrainMap] Iterated in 0.00233516 seconds.
+Computed local goal in 3.4114e-05 seconds.
+[ INFO] [1743475818.053786482, 29.929597634]: [AStarPlanner] Path found in 0.115644 seconds.
+[TerrainMap] Updated global map in 0.00426372 seconds.
+[TerrainMap] Iterated in 0.0042583 seconds.
+Computed local goal in 4.747e-05 seconds.
+[ INFO] [1743475818.225931606, 30.029597635]: [AStarPlanner] Path found in 0.113086 seconds.
+[TerrainMap] Updated global map in 0.0021938 seconds.
+[TerrainMap] Iterated in 0.00218819 seconds.
+Computed local goal in 3.3881e-05 seconds.
+[ INFO] [1743475818.402386981, 30.129597637]: [AStarPlanner] Path found in 0.120947 seconds.
+[TerrainMap] Updated global map in 0.00210697 seconds.
+[TerrainMap] Iterated in 0.00210225 seconds.
+Computed local goal in 3.0438e-05 seconds.
+[ INFO] [1743475818.573146421, 30.229597638]: [AStarPlanner] Path found in 0.118318 seconds.
+[TerrainMap] Updated global map in 0.00220174 seconds.
+[TerrainMap] Iterated in 0.00219547 seconds.
+Computed local goal in 3.029e-05 seconds.
+[ INFO] [1743475818.742737817, 30.229597638]: [AStarPlanner] Path found in 0.115918 seconds.
+[TerrainMap] Updated global map in 0.00258792 seconds.
+[TerrainMap] Iterated in 0.00258255 seconds.
+Computed local goal in 3.6869e-05 seconds.
+[ INFO] [1743475818.991943064, 30.329597640]: [AStarPlanner] Path found in 0.126576 seconds.
+[TerrainMap] Updated global map in 0.00241317 seconds.
+[TerrainMap] Iterated in 0.00240727 seconds.
+Computed local goal in 4.2079e-05 seconds.
+[ INFO] [1743475819.184525250, 30.429597641]: [AStarPlanner] Path found in 0.124428 seconds.
+[TerrainMap] Updated global map in 0.00289107 seconds.
+[TerrainMap] Iterated in 0.00288486 seconds.
+Computed local goal in 4.4363e-05 seconds.
+[ INFO] [1743475819.375599047, 30.529597643]: [AStarPlanner] Path found in 0.124669 seconds.
+[TerrainMap] Updated global map in 0.00228731 seconds.
+[TerrainMap] Iterated in 0.0022811 seconds.
+Computed local goal in 3.4266e-05 seconds.
+[ INFO] [1743475819.567366327, 30.629597644]: [AStarPlanner] Path found in 0.134431 seconds.
+[TerrainMap] Updated global map in 0.00267589 seconds.
+[TerrainMap] Iterated in 0.00266904 seconds.
+Computed local goal in 3.9231e-05 seconds.
+[ INFO] [1743475819.754891892, 30.729597646]: [AStarPlanner] Path found in 0.125562 seconds.
+[TerrainMap] Updated global map in 0.00288045 seconds.
+[TerrainMap] Iterated in 0.00287441 seconds.
+Computed local goal in 3.5624e-05 seconds.
+[ INFO] [1743475820.252949965, 30.929597649]: [AStarPlanner] Path found in 0.437515 seconds.
+[TerrainMap] Updated global map in 0.00268317 seconds.
+[TerrainMap] Iterated in 0.00267612 seconds.
+Computed local goal in 3.612e-05 seconds.
+[ INFO] [1743475820.734150266, 31.129597652]: [AStarPlanner] Path found in 0.421949 seconds.
+[TerrainMap] Updated global map in 0.00220309 seconds.
+[TerrainMap] Iterated in 0.00219759 seconds.
+Computed local goal in 3.1317e-05 seconds.
+[ INFO] [1743475820.937708170, 31.129597652]: [AStarPlanner] Path found in 0.146201 seconds.
+[TerrainMap] Updated global map in 0.00228111 seconds.
+[TerrainMap] Iterated in 0.00227519 seconds.
+Computed local goal in 3.745e-05 seconds.
+[ INFO] [1743475821.158000439, 31.229597653]: [AStarPlanner] Path found in 0.116204 seconds.
+[TerrainMap] Updated global map in 0.00228063 seconds.
+[TerrainMap] Iterated in 0.00227488 seconds.
+Computed local goal in 3.3662e-05 seconds.
+[ INFO] [1743475821.635808500, 31.429597656]: [AStarPlanner] Path found in 0.424979 seconds.
+[TerrainMap] Updated global map in 0.00259571 seconds.
+[TerrainMap] Iterated in 0.00258981 seconds.
+Computed local goal in 3.76e-05 seconds.
+[ INFO] [1743475821.827052408, 31.529597658]: [AStarPlanner] Path found in 0.134426 seconds.
+[TerrainMap] Updated global map in 0.00262818 seconds.
+[TerrainMap] Iterated in 0.00262278 seconds.
+Computed local goal in 3.5864e-05 seconds.
+[ INFO] [1743475822.370042519, 31.729597661]: [AStarPlanner] Path found in 0.48851 seconds.
+[TerrainMap] Updated global map in 0.00237019 seconds.
+[TerrainMap] Iterated in 0.00236401 seconds.
+Computed local goal in 3.205e-05 seconds.
+[ INFO] [1743475822.880182833, 31.929597664]: [AStarPlanner] Path found in 0.454697 seconds.
+[TerrainMap] Updated global map in 0.00211129 seconds.
+[TerrainMap] Iterated in 0.00210593 seconds.
+Computed local goal in 3.4804e-05 seconds.
+[ INFO] [1743475823.346808755, 32.129597667]: [AStarPlanner] Path found in 0.411506 seconds.
+[TerrainMap] Updated global map in 0.00253718 seconds.
+[TerrainMap] Iterated in 0.00253193 seconds.
+Computed local goal in 4.3697e-05 seconds.
+[ INFO] [1743475823.803231029, 32.329597670]: [AStarPlanner] Path found in 0.400611 seconds.
+[TerrainMap] Updated global map in 0.00256998 seconds.
+[TerrainMap] Iterated in 0.0025648 seconds.
+Computed local goal in 3.7162e-05 seconds.
+[ INFO] [1743475824.291265122, 32.429597671]: [AStarPlanner] Path found in 0.433078 seconds.
+[TerrainMap] Updated global map in 0.00281093 seconds.
+[TerrainMap] Iterated in 0.00280443 seconds.
+Computed local goal in 3.9033e-05 seconds.
+[ INFO] [1743475824.826390193, 32.729597676]: [AStarPlanner] Path found in 0.472351 seconds.
+[TerrainMap] Updated global map in 0.00275953 seconds.
+[TerrainMap] Iterated in 0.0027541 seconds.
+Computed local goal in 4.1843e-05 seconds.
+[ INFO] [1743475824.994172890, 32.729597676]: [AStarPlanner] Path found in 0.110748 seconds.
+[TerrainMap] Updated global map in 0.00267947 seconds.
+[TerrainMap] Iterated in 0.00267439 seconds.
+Computed local goal in 3.9648e-05 seconds.
+[ INFO] [1743475825.241278600, 32.829597677]: [AStarPlanner] Path found in 0.116837 seconds.
+[TerrainMap] Updated global map in 0.00277683 seconds.
+[TerrainMap] Iterated in 0.00277158 seconds.
+Computed local goal in 4.0851e-05 seconds.
+[ INFO] [1743475825.750426495, 33.029597680]: [AStarPlanner] Path found in 0.448815 seconds.
+[TerrainMap] Updated global map in 0.00298844 seconds.
+[TerrainMap] Iterated in 0.00298319 seconds.
+Computed local goal in 4.4203e-05 seconds.
+[ INFO] [1743475826.287366814, 33.229597683]: [AStarPlanner] Path found in 0.485416 seconds.
+[TerrainMap] Updated global map in 0.00321564 seconds.
+[TerrainMap] Iterated in 0.00320831 seconds.
+Computed local goal in 5.6068e-05 seconds.
+[ INFO] [1743475826.464743497, 33.329597685]: [AStarPlanner] Path found in 0.122051 seconds.
+[TerrainMap] Updated global map in 0.00307355 seconds.
+[TerrainMap] Iterated in 0.00306781 seconds.
+Computed local goal in 4.356e-05 seconds.
+[ INFO] [1743475826.643779352, 33.329597685]: [AStarPlanner] Path found in 0.121669 seconds.
+[TerrainMap] Updated global map in 0.00296973 seconds.
+[TerrainMap] Iterated in 0.00296493 seconds.
+Computed local goal in 4.4525e-05 seconds.
+[ INFO] [1743475827.176072015, 33.529597688]: [AStarPlanner] Path found in 0.477696 seconds.
+[TerrainMap] Updated global map in 0.00327592 seconds.
+[TerrainMap] Iterated in 0.00326992 seconds.
+Computed local goal in 5.2484e-05 seconds.
+[ INFO] [1743475827.670960302, 33.729597690]: [AStarPlanner] Path found in 0.434616 seconds.
+[TerrainMap] Updated global map in 0.00225151 seconds.
+[TerrainMap] Iterated in 0.0022461 seconds.
+Computed local goal in 4.1151e-05 seconds.
+[ INFO] [1743475828.194845873, 34.029597695]: [AStarPlanner] Path found in 0.469287 seconds.
+[TerrainMap] Updated global map in 0.00253523 seconds.
+[TerrainMap] Iterated in 0.00252879 seconds.
+Computed local goal in 5.863e-05 seconds.
+[ INFO] [1743475828.681131396, 34.229597698]: [AStarPlanner] Path found in 0.432252 seconds.
+[TerrainMap] Updated global map in 0.00267494 seconds.
+[TerrainMap] Iterated in 0.00266904 seconds.
+Computed local goal in 5.1626e-05 seconds.
+[ INFO] [1743475828.841081566, 34.229597698]: [AStarPlanner] Path found in 0.10294 seconds.
+[TerrainMap] Updated global map in 0.00455022 seconds.
+[TerrainMap] Iterated in 0.00454371 seconds.
+Computed local goal in 6.2408e-05 seconds.
+[ INFO] [1743475829.091237940, 34.329597699]: [AStarPlanner] Path found in 0.134981 seconds.
+[TerrainMap] Updated global map in 0.00462784 seconds.
+[TerrainMap] Iterated in 0.00462214 seconds.
+Computed local goal in 7.2913e-05 seconds.
+[ INFO] [1743475829.671396005, 34.629597704]: [AStarPlanner] Path found in 0.494706 seconds.
+[TerrainMap] Updated global map in 0.00263118 seconds.
+[TerrainMap] Iterated in 0.00262578 seconds.
+Computed local goal in 4.6222e-05 seconds.
+[ INFO] [1743475830.218273350, 34.829597707]: [AStarPlanner] Path found in 0.491944 seconds.
+[TerrainMap] Updated global map in 0.00254934 seconds.
+[TerrainMap] Iterated in 0.00254433 seconds.
+Computed local goal in 5.3573e-05 seconds.
+[ INFO] [1743475830.430270153, 34.929597708]: [AStarPlanner] Path found in 0.158237 seconds.
+[TerrainMap] Updated global map in 0.0025282 seconds.
+[TerrainMap] Iterated in 0.00252353 seconds.
+Computed local goal in 4.8794e-05 seconds.
+[ INFO] [1743475830.643346531, 35.029597710]: [AStarPlanner] Path found in 0.158103 seconds.
+[TerrainMap] Updated global map in 0.00296208 seconds.
+[TerrainMap] Iterated in 0.0029518 seconds.
+Computed local goal in 6.0909e-05 seconds.
+[ WARN] [1743475963.240923805, 98.429598655]: [AStarPlanner] No path found from start to goal!
+[TerrainMap] Updated global map in 0.00297953 seconds.
+[TerrainMap] Iterated in 0.00297343 seconds.
+Computed local goal in 5.8029e-05 seconds.
+[ INFO] [1743475963.454439759, 98.529598656]: [AStarPlanner] Path found in 0.149317 seconds.
+[TerrainMap] Updated global map in 0.00300749 seconds.
+[TerrainMap] Iterated in 0.00300198 seconds.
+Computed local goal in 0.000243583 seconds.
+[ INFO] [1743475963.612713843, 98.529598656]: [AStarPlanner] Path found in 0.0966464 seconds.
+[TerrainMap] Updated global map in 0.00265721 seconds.
+[TerrainMap] Iterated in 0.00265142 seconds.
+Computed local goal in 0.000210965 seconds.
+[ INFO] [1743475963.790301109, 98.629598658]: [AStarPlanner] Path found in 0.0840623 seconds.
+[TerrainMap] Updated global map in 0.00328497 seconds.
+[TerrainMap] Iterated in 0.00327858 seconds.
+Computed local goal in 5.8944e-05 seconds.
+[ INFO] [1743475965.233480231, 99.329598668]: [AStarPlanner] Path found in 1.3826 seconds.
+[TerrainMap] Updated global map in 0.00272993 seconds.
+[TerrainMap] Iterated in 0.00272471 seconds.
+Computed local goal in 7.6495e-05 seconds.
+[ INFO] [1743475967.028241605, 100.129598680]: [AStarPlanner] Path found in 1.7366 seconds.
+[TerrainMap] Updated global map in 0.00284286 seconds.
+[TerrainMap] Iterated in 0.00283725 seconds.
+Computed local goal in 7.7752e-05 seconds.
+[ INFO] [1743475968.905293808, 101.029598693]: [AStarPlanner] Path found in 1.81132 seconds.
+[TerrainMap] Updated global map in 0.00274715 seconds.
+[TerrainMap] Iterated in 0.00274048 seconds.
+Computed local goal in 7.951e-05 seconds.
+[ INFO] [1743475970.138238553, 101.629598702]: [AStarPlanner] Path found in 1.17453 seconds.
+[TerrainMap] Updated global map in 0.00230184 seconds.
+[TerrainMap] Iterated in 0.00229679 seconds.
+Computed local goal in 7.6633e-05 seconds.
+[ INFO] [1743475971.297736332, 102.129598710]: [AStarPlanner] Path found in 1.103 seconds.
+[TerrainMap] Updated global map in 0.00256791 seconds.
+[TerrainMap] Iterated in 0.00256162 seconds.
+Computed local goal in 8.1574e-05 seconds.
+[ INFO] [1743475972.267038091, 102.529598716]: [AStarPlanner] Path found in 0.910229 seconds.
+[TerrainMap] Updated global map in 0.00252034 seconds.
+[TerrainMap] Iterated in 0.0025138 seconds.
+Computed local goal in 8.1324e-05 seconds.
+[ INFO] [1743475973.294689118, 103.029598723]: [AStarPlanner] Path found in 0.958002 seconds.
+[TerrainMap] Updated global map in 0.00313684 seconds.
+[TerrainMap] Iterated in 0.00312814 seconds.
+Computed local goal in 0.000129653 seconds.
+[ INFO] [1743475974.610168838, 103.629598732]: [AStarPlanner] Path found in 1.25514 seconds.
+[TerrainMap] Updated global map in 0.00469219 seconds.
+[TerrainMap] Iterated in 0.00468604 seconds.
+Computed local goal in 0.000125698 seconds.
+[ INFO] [1743475976.231930816, 103.929598737]: [AStarPlanner] Path found in 1.56216 seconds.
+[TerrainMap] Updated global map in 0.00238502 seconds.
+[TerrainMap] Iterated in 0.00238035 seconds.
+Computed local goal in 7.7758e-05 seconds.
+[ INFO] [1743475977.822667757, 104.129598740]: [AStarPlanner] Path found in 1.53883 seconds.
+[TerrainMap] Updated global map in 0.00263252 seconds.
+[TerrainMap] Iterated in 0.00262736 seconds.
+Computed local goal in 8.4173e-05 seconds.
+[ INFO] [1743475979.408235862, 104.229598741]: [AStarPlanner] Path found in 1.52985 seconds.
+[TerrainMap] Updated global map in 0.00260573 seconds.
+[TerrainMap] Iterated in 0.00260043 seconds.
+Computed local goal in 7.9396e-05 seconds.
+[ INFO] [1743475980.986067563, 104.329598743]: [AStarPlanner] Path found in 1.52165 seconds.
+[TerrainMap] Updated global map in 0.00238419 seconds.
+[TerrainMap] Iterated in 0.00237951 seconds.
+Computed local goal in 7.4016e-05 seconds.
+[ INFO] [1743475982.590463315, 104.529598745]: [AStarPlanner] Path found in 1.55025 seconds.
+[TerrainMap] Updated global map in 0.00244324 seconds.
+[TerrainMap] Iterated in 0.00243819 seconds.
+Computed local goal in 7.9277e-05 seconds.
+[ INFO] [1743475984.156165861, 104.629598747]: [AStarPlanner] Path found in 1.51365 seconds.
+[TerrainMap] Updated global map in 0.00231794 seconds.
+[TerrainMap] Iterated in 0.00231241 seconds.
+Computed local goal in 7.1987e-05 seconds.
+[ INFO] [1743475985.742090698, 104.729598748]: [AStarPlanner] Path found in 1.53385 seconds.
+[TerrainMap] Updated global map in 0.00231342 seconds.
+[TerrainMap] Iterated in 0.00230907 seconds.
+Computed local goal in 7.4939e-05 seconds.
+[ INFO] [1743475987.351107735, 104.929598751]: [AStarPlanner] Path found in 1.55887 seconds.
+[TerrainMap] Updated global map in 0.00258709 seconds.
+[TerrainMap] Iterated in 0.00258232 seconds.
+Computed local goal in 8.2938e-05 seconds.
+[ INFO] [1743475988.941167024, 105.029598753]: [AStarPlanner] Path found in 1.53766 seconds.
+[TerrainMap] Updated global map in 0.0025256 seconds.
+[TerrainMap] Iterated in 0.00252096 seconds.
+Computed local goal in 8.008e-05 seconds.
+[ INFO] [1743475990.505533845, 105.129598754]: [AStarPlanner] Path found in 1.51113 seconds.
+[TerrainMap] Updated global map in 0.00256349 seconds.
+[TerrainMap] Iterated in 0.00255843 seconds.
+Computed local goal in 7.7925e-05 seconds.
+[ INFO] [1743475992.093640064, 105.329598757]: [AStarPlanner] Path found in 1.53562 seconds.
+[TerrainMap] Updated global map in 0.00262929 seconds.
+[TerrainMap] Iterated in 0.00262321 seconds.
+Computed local goal in 7.7193e-05 seconds.
+[ INFO] [1743475993.669248756, 105.429598759]: [AStarPlanner] Path found in 1.51703 seconds.
+[TerrainMap] Updated global map in 0.00242193 seconds.
+[TerrainMap] Iterated in 0.00241745 seconds.
+Computed local goal in 7.9678e-05 seconds.
+[ INFO] [1743475995.208080626, 105.529598760]: [AStarPlanner] Path found in 1.48447 seconds.
+[TerrainMap] Updated global map in 0.00250704 seconds.
+[TerrainMap] Iterated in 0.00250145 seconds.
+Computed local goal in 0.000103826 seconds.
+[ INFO] [1743475996.703339219, 105.629598762]: [AStarPlanner] Path found in 1.44213 seconds.
+[TerrainMap] Updated global map in 0.0024386 seconds.
+[TerrainMap] Iterated in 0.00243452 seconds.
+Computed local goal in 7.5458e-05 seconds.
+[ INFO] [1743475998.236460424, 105.829598765]: [AStarPlanner] Path found in 1.48178 seconds.
+[TerrainMap] Updated global map in 0.00260737 seconds.
+[TerrainMap] Iterated in 0.00260202 seconds.
+Computed local goal in 0.000110336 seconds.
+[ INFO] [1743475999.750011927, 105.929598766]: [AStarPlanner] Path found in 1.46114 seconds.
+[TerrainMap] Updated global map in 0.00243058 seconds.
+[TerrainMap] Iterated in 0.00242648 seconds.
+Computed local goal in 7.9029e-05 seconds.
+[ INFO] [1743476001.255753726, 106.029598768]: [AStarPlanner] Path found in 1.45518 seconds.
+[TerrainMap] Updated global map in 0.00226373 seconds.
+[TerrainMap] Iterated in 0.00225974 seconds.
+Computed local goal in 7.2293e-05 seconds.
+[ INFO] [1743476002.814282466, 106.229598771]: [AStarPlanner] Path found in 1.50496 seconds.
+[TerrainMap] Updated global map in 0.00279503 seconds.
+[TerrainMap] Iterated in 0.00278938 seconds.
+Computed local goal in 8.1655e-05 seconds.
+[ INFO] [1743476004.515817690, 106.329598772]: [AStarPlanner] Path found in 1.6456 seconds.
+[TerrainMap] Updated global map in 0.00262465 seconds.
+[TerrainMap] Iterated in 0.00261985 seconds.
+Computed local goal in 8.1493e-05 seconds.
+[ INFO] [1743476006.039293554, 106.429598774]: [AStarPlanner] Path found in 1.46703 seconds.
+[TerrainMap] Updated global map in 0.00234738 seconds.
+[TerrainMap] Iterated in 0.00234265 seconds.
+Computed local goal in 7.7647e-05 seconds.
+[ INFO] [1743476007.549906655, 106.529598775]: [AStarPlanner] Path found in 1.45943 seconds.
+[TerrainMap] Updated global map in 0.00340076 seconds.
+[TerrainMap] Iterated in 0.00339548 seconds.
+Computed local goal in 9.4845e-05 seconds.
+slsecret@slsecret-Alienware-x15-R2:~/PreferentialTerrainNavigation$ rosrun planning controller 
+[ INFO] [1743476306.221245427]: Controller initialized: waiting for BEV images, odometry, and global waypoints.
+Received global path with 682 waypoints.
+received bev image
+[TerrainMap] Updated global map in 0.00220456 seconds.
+[TerrainMap] Iterated in 0.00218989 seconds.
+Computed local goal in 3.041e-05 seconds.
+[ INFO] [1743476312.559357418, 7.907595450]: [AStarPlanner] Path found in 0.0784458 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00216249 seconds.
+[TerrainMap] Iterated in 0.00215823 seconds.
+Computed local goal in 3.0342e-05 seconds.
+[ INFO] [1743476312.709178702, 7.907595450]: [AStarPlanner] Path found in 0.0983122 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00229598 seconds.
+[TerrainMap] Iterated in 0.00229021 seconds.
+Computed local goal in 3.6887e-05 seconds.
+[ INFO] [1743476313.807193889, 8.007595452]: [AStarPlanner] Path found in 0.106546 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00208946 seconds.
+[TerrainMap] Iterated in 0.00208453 seconds.
+Computed local goal in 2.9387e-05 seconds.
+[ INFO] [1743476313.962299239, 8.007595452]: [AStarPlanner] Path found in 0.104129 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00227394 seconds.
+[TerrainMap] Iterated in 0.00226889 seconds.
+Computed local goal in 3.2018e-05 seconds.
+[ INFO] [1743476315.028236078, 8.107595453]: [AStarPlanner] Path found in 0.117428 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00215429 seconds.
+[TerrainMap] Iterated in 0.00214926 seconds.
+Computed local goal in 3.0079e-05 seconds.
+[ INFO] [1743476315.182916834, 8.107595453]: [AStarPlanner] Path found in 0.0996085 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0023242 seconds.
+[TerrainMap] Iterated in 0.00231817 seconds.
+Computed local goal in 3.2309e-05 seconds.
+[ INFO] [1743476316.232991896, 8.207595455]: [AStarPlanner] Path found in 0.111165 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00205357 seconds.
+[TerrainMap] Iterated in 0.0020493 seconds.
+Computed local goal in 3.1055e-05 seconds.
+[ INFO] [1743476316.386303184, 8.207595455]: [AStarPlanner] Path found in 0.104506 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00226866 seconds.
+[TerrainMap] Iterated in 0.00226334 seconds.
+Computed local goal in 2.87e-05 seconds.
+[ INFO] [1743476317.423421618, 8.307595456]: [AStarPlanner] Path found in 0.103614 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00219273 seconds.
+[TerrainMap] Iterated in 0.00218748 seconds.
+Computed local goal in 2.9548e-05 seconds.
+[ INFO] [1743476317.570662285, 8.307595456]: [AStarPlanner] Path found in 0.10102 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00235306 seconds.
+[TerrainMap] Iterated in 0.00234771 seconds.
+Computed local goal in 3.2632e-05 seconds.
+[ INFO] [1743476318.632353327, 8.407595458]: [AStarPlanner] Path found in 0.114746 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00202886 seconds.
+[TerrainMap] Iterated in 0.00202451 seconds.
+Computed local goal in 3.3137e-05 seconds.
+[ INFO] [1743476318.787452627, 8.407595458]: [AStarPlanner] Path found in 0.104842 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00191667 seconds.
+[TerrainMap] Iterated in 0.00191174 seconds.
+Computed local goal in 2.7453e-05 seconds.
+[ INFO] [1743476319.824015014, 8.507595459]: [AStarPlanner] Path found in 0.104789 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00201796 seconds.
+[TerrainMap] Iterated in 0.00201387 seconds.
+Computed local goal in 3.0022e-05 seconds.
+[ INFO] [1743476319.975554764, 8.507595459]: [AStarPlanner] Path found in 0.101872 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.002225 seconds.
+[TerrainMap] Iterated in 0.00221978 seconds.
+Computed local goal in 3.1361e-05 seconds.
+[ INFO] [1743476321.024355301, 8.607595461]: [AStarPlanner] Path found in 0.107227 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00195839 seconds.
+[TerrainMap] Iterated in 0.00195387 seconds.
+Computed local goal in 2.8323e-05 seconds.
+[ INFO] [1743476321.166755070, 8.607595461]: [AStarPlanner] Path found in 0.0965421 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00218191 seconds.
+[TerrainMap] Iterated in 0.00217652 seconds.
+Computed local goal in 3.0879e-05 seconds.
+[ INFO] [1743476322.226929125, 8.707595462]: [AStarPlanner] Path found in 0.109622 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00212645 seconds.
+[TerrainMap] Iterated in 0.00212182 seconds.
+Computed local goal in 3.0788e-05 seconds.
+[ INFO] [1743476322.383914283, 8.707595462]: [AStarPlanner] Path found in 0.106239 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00264151 seconds.
+[TerrainMap] Iterated in 0.00263582 seconds.
+Computed local goal in 3.2105e-05 seconds.
+[ INFO] [1743476323.442647223, 8.807595464]: [AStarPlanner] Path found in 0.124486 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00192012 seconds.
+[TerrainMap] Iterated in 0.00191318 seconds.
+Computed local goal in 6.5185e-05 seconds.
+[ INFO] [1743476323.588964367, 8.807595464]: [AStarPlanner] Path found in 0.0968951 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0024876 seconds.
+[TerrainMap] Iterated in 0.00248231 seconds.
+Computed local goal in 3.4218e-05 seconds.
+[ INFO] [1743476324.646593564, 8.907595465]: [AStarPlanner] Path found in 0.121757 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0021246 seconds.
+[TerrainMap] Iterated in 0.00211911 seconds.
+Computed local goal in 2.9774e-05 seconds.
+[ INFO] [1743476324.798417322, 8.907595465]: [AStarPlanner] Path found in 0.103185 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00203044 seconds.
+[TerrainMap] Iterated in 0.00202606 seconds.
+Computed local goal in 2.8143e-05 seconds.
+[ INFO] [1743476325.811106723, 9.007595467]: [AStarPlanner] Path found in 0.100252 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00193491 seconds.
+[TerrainMap] Iterated in 0.00192995 seconds.
+Computed local goal in 2.8779e-05 seconds.
+[ INFO] [1743476325.957679358, 9.007595467]: [AStarPlanner] Path found in 0.0989178 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00241767 seconds.
+[TerrainMap] Iterated in 0.00241238 seconds.
+Computed local goal in 3.1393e-05 seconds.
+[ INFO] [1743476327.032061481, 9.107595468]: [AStarPlanner] Path found in 0.12275 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00247364 seconds.
+[TerrainMap] Iterated in 0.00246838 seconds.
+Computed local goal in 3.4425e-05 seconds.
+[ INFO] [1743476327.197302954, 9.107595468]: [AStarPlanner] Path found in 0.109677 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00215085 seconds.
+[TerrainMap] Iterated in 0.00214508 seconds.
+Computed local goal in 3.0493e-05 seconds.
+[ INFO] [1743476328.218472062, 9.207595470]: [AStarPlanner] Path found in 0.105935 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00224492 seconds.
+[TerrainMap] Iterated in 0.00224119 seconds.
+Computed local goal in 3.4896e-05 seconds.
+[ INFO] [1743476328.368151892, 9.207595470]: [AStarPlanner] Path found in 0.10171 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00205794 seconds.
+[TerrainMap] Iterated in 0.00205241 seconds.
+Computed local goal in 2.8679e-05 seconds.
+[ INFO] [1743476329.431764262, 9.307595471]: [AStarPlanner] Path found in 0.104992 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00208708 seconds.
+[TerrainMap] Iterated in 0.00208258 seconds.
+Computed local goal in 2.9849e-05 seconds.
+[ INFO] [1743476329.581660436, 9.307595471]: [AStarPlanner] Path found in 0.100901 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00213156 seconds.
+[TerrainMap] Iterated in 0.00212687 seconds.
+Computed local goal in 3.0725e-05 seconds.
+[ INFO] [1743476330.639306763, 9.407595473]: [AStarPlanner] Path found in 0.10873 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00214435 seconds.
+[TerrainMap] Iterated in 0.00214008 seconds.
+Computed local goal in 3.1098e-05 seconds.
+[ INFO] [1743476330.793691838, 9.407595473]: [AStarPlanner] Path found in 0.104534 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00196388 seconds.
+[TerrainMap] Iterated in 0.001959 seconds.
+Computed local goal in 2.8148e-05 seconds.
+[ INFO] [1743476331.838264886, 9.507595474]: [AStarPlanner] Path found in 0.106829 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00199053 seconds.
+[TerrainMap] Iterated in 0.00198613 seconds.
+Computed local goal in 2.9031e-05 seconds.
+[ INFO] [1743476331.993088036, 9.507595474]: [AStarPlanner] Path found in 0.104279 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00242588 seconds.
+[TerrainMap] Iterated in 0.00242021 seconds.
+Computed local goal in 4.2114e-05 seconds.
+[ INFO] [1743476333.056347459, 9.607595476]: [AStarPlanner] Path found in 0.111382 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00221005 seconds.
+[TerrainMap] Iterated in 0.00220513 seconds.
+Computed local goal in 3.1978e-05 seconds.
+[ INFO] [1743476333.209873583, 9.607595476]: [AStarPlanner] Path found in 0.103085 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00228758 seconds.
+[TerrainMap] Iterated in 0.00228204 seconds.
+Computed local goal in 3.3457e-05 seconds.
+[ INFO] [1743476334.265983197, 9.707595477]: [AStarPlanner] Path found in 0.10878 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00210334 seconds.
+[TerrainMap] Iterated in 0.00209889 seconds.
+Computed local goal in 3.0203e-05 seconds.
+[ INFO] [1743476334.422280483, 9.707595477]: [AStarPlanner] Path found in 0.105826 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00245259 seconds.
+[TerrainMap] Iterated in 0.00244557 seconds.
+Computed local goal in 3.9613e-05 seconds.
+[ INFO] [1743476335.462246978, 9.807595479]: [AStarPlanner] Path found in 0.109527 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00218858 seconds.
+[TerrainMap] Iterated in 0.00218382 seconds.
+Computed local goal in 3.2368e-05 seconds.
+[ INFO] [1743476335.616460578, 9.807595479]: [AStarPlanner] Path found in 0.10427 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00197168 seconds.
+[TerrainMap] Iterated in 0.00196645 seconds.
+Computed local goal in 2.8665e-05 seconds.
+[ INFO] [1743476336.656424196, 9.907595480]: [AStarPlanner] Path found in 0.107705 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00215031 seconds.
+[TerrainMap] Iterated in 0.00214473 seconds.
+Computed local goal in 3.107e-05 seconds.
+[ INFO] [1743476336.811057052, 9.907595480]: [AStarPlanner] Path found in 0.104136 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00214483 seconds.
+[TerrainMap] Iterated in 0.00213918 seconds.
+Computed local goal in 3.0008e-05 seconds.
+[ INFO] [1743476337.852651467, 10.007595482]: [AStarPlanner] Path found in 0.101047 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00213213 seconds.
+[TerrainMap] Iterated in 0.00212754 seconds.
+Computed local goal in 3.1874e-05 seconds.
+[ INFO] [1743476338.006202531, 10.007595482]: [AStarPlanner] Path found in 0.103821 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.002311 seconds.
+[TerrainMap] Iterated in 0.00230542 seconds.
+Computed local goal in 3.0319e-05 seconds.
+[ INFO] [1743476339.057746653, 10.107595483]: [AStarPlanner] Path found in 0.113018 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00231614 seconds.
+[TerrainMap] Iterated in 0.00231085 seconds.
+Computed local goal in 3.1561e-05 seconds.
+[ INFO] [1743476339.213453810, 10.107595483]: [AStarPlanner] Path found in 0.105234 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00231332 seconds.
+[TerrainMap] Iterated in 0.00230751 seconds.
+Computed local goal in 3.179e-05 seconds.
+[ INFO] [1743476340.262721386, 10.207595485]: [AStarPlanner] Path found in 0.109416 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00194595 seconds.
+[TerrainMap] Iterated in 0.00193867 seconds.
+Computed local goal in 2.9749e-05 seconds.
+[ INFO] [1743476340.405953887, 10.207595485]: [AStarPlanner] Path found in 0.0973779 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00222155 seconds.
+[TerrainMap] Iterated in 0.00221601 seconds.
+Computed local goal in 3.0806e-05 seconds.
+[ INFO] [1743476341.456226189, 10.307595486]: [AStarPlanner] Path found in 0.1079 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00218746 seconds.
+[TerrainMap] Iterated in 0.00218275 seconds.
+Computed local goal in 3.2231e-05 seconds.
+[ INFO] [1743476341.604417535, 10.307595486]: [AStarPlanner] Path found in 0.0994642 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00225532 seconds.
+[TerrainMap] Iterated in 0.00224958 seconds.
+Computed local goal in 3.1678e-05 seconds.
+[ INFO] [1743476342.654739948, 10.407595488]: [AStarPlanner] Path found in 0.108179 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00210796 seconds.
+[TerrainMap] Iterated in 0.00210401 seconds.
+Computed local goal in 3.1561e-05 seconds.
+[ INFO] [1743476342.809379095, 10.407595488]: [AStarPlanner] Path found in 0.104459 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00246995 seconds.
+[TerrainMap] Iterated in 0.00246506 seconds.
+Computed local goal in 3.4577e-05 seconds.
+[ INFO] [1743476343.855644409, 10.507595489]: [AStarPlanner] Path found in 0.108009 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00208059 seconds.
+[TerrainMap] Iterated in 0.00207632 seconds.
+Computed local goal in 3.079e-05 seconds.
+[ INFO] [1743476344.008908869, 10.507595489]: [AStarPlanner] Path found in 0.103836 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00200354 seconds.
+[TerrainMap] Iterated in 0.00199815 seconds.
+Computed local goal in 2.8778e-05 seconds.
+[ INFO] [1743476345.059264180, 10.607595491]: [AStarPlanner] Path found in 0.101868 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00221225 seconds.
+[TerrainMap] Iterated in 0.002207 seconds.
+Computed local goal in 2.7952e-05 seconds.
+[ INFO] [1743476345.213378689, 10.607595491]: [AStarPlanner] Path found in 0.107244 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00215143 seconds.
+[TerrainMap] Iterated in 0.00214646 seconds.
+Computed local goal in 2.9706e-05 seconds.
+[ INFO] [1743476346.240153240, 10.707595492]: [AStarPlanner] Path found in 0.0984869 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.002008 seconds.
+[TerrainMap] Iterated in 0.00200343 seconds.
+Computed local goal in 2.9911e-05 seconds.
+[ INFO] [1743476346.385619198, 10.707595492]: [AStarPlanner] Path found in 0.0999522 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00239238 seconds.
+[TerrainMap] Iterated in 0.00238703 seconds.
+Computed local goal in 3.1649e-05 seconds.
+[ INFO] [1743476347.458740722, 10.807595494]: [AStarPlanner] Path found in 0.111718 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0023185 seconds.
+[TerrainMap] Iterated in 0.00231398 seconds.
+Computed local goal in 3.3017e-05 seconds.
+[ INFO] [1743476347.612273817, 10.807595494]: [AStarPlanner] Path found in 0.104938 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00220423 seconds.
+[TerrainMap] Iterated in 0.00219902 seconds.
+Computed local goal in 3.0858e-05 seconds.
+[ INFO] [1743476348.646717506, 10.907595495]: [AStarPlanner] Path found in 0.110434 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.002199 seconds.
+[TerrainMap] Iterated in 0.00219453 seconds.
+Computed local goal in 3.192e-05 seconds.
+[ INFO] [1743476348.800610196, 10.907595495]: [AStarPlanner] Path found in 0.104377 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00229816 seconds.
+[TerrainMap] Iterated in 0.00229151 seconds.
+Computed local goal in 3.0238e-05 seconds.
+[ INFO] [1743476349.852118784, 11.007595497]: [AStarPlanner] Path found in 0.108764 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00218795 seconds.
+[TerrainMap] Iterated in 0.00218314 seconds.
+Computed local goal in 3.117e-05 seconds.
+[ INFO] [1743476350.004849816, 11.007595497]: [AStarPlanner] Path found in 0.103759 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0023728 seconds.
+[TerrainMap] Iterated in 0.00236717 seconds.
+Computed local goal in 3.2095e-05 seconds.
+[ INFO] [1743476351.060521583, 11.107595498]: [AStarPlanner] Path found in 0.121356 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00227947 seconds.
+[TerrainMap] Iterated in 0.002274 seconds.
+Computed local goal in 3.2374e-05 seconds.
+[ INFO] [1743476351.230933582, 11.107595498]: [AStarPlanner] Path found in 0.116092 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00221892 seconds.
+[TerrainMap] Iterated in 0.00221341 seconds.
+Computed local goal in 3.01e-05 seconds.
+[ INFO] [1743476352.234206934, 11.207595500]: [AStarPlanner] Path found in 0.107628 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00212958 seconds.
+[TerrainMap] Iterated in 0.00212553 seconds.
+Computed local goal in 3.0963e-05 seconds.
+[ INFO] [1743476352.388096700, 11.207595500]: [AStarPlanner] Path found in 0.104439 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0022974 seconds.
+[TerrainMap] Iterated in 0.00229189 seconds.
+Computed local goal in 3.1143e-05 seconds.
+[ INFO] [1743476353.427823314, 11.307595501]: [AStarPlanner] Path found in 0.107602 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00210076 seconds.
+[TerrainMap] Iterated in 0.00209536 seconds.
+Computed local goal in 2.8948e-05 seconds.
+[ INFO] [1743476353.580214653, 11.307595501]: [AStarPlanner] Path found in 0.10292 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00202029 seconds.
+[TerrainMap] Iterated in 0.00201417 seconds.
+Computed local goal in 2.7973e-05 seconds.
+[ INFO] [1743476354.626926063, 11.407595503]: [AStarPlanner] Path found in 0.105184 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0019747 seconds.
+[TerrainMap] Iterated in 0.00196985 seconds.
+Computed local goal in 2.9003e-05 seconds.
+[ INFO] [1743476354.776263223, 11.407595503]: [AStarPlanner] Path found in 0.101072 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00198053 seconds.
+[TerrainMap] Iterated in 0.00197528 seconds.
+Computed local goal in 2.8672e-05 seconds.
+[ INFO] [1743476355.809176226, 11.507595504]: [AStarPlanner] Path found in 0.101744 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00211844 seconds.
+[TerrainMap] Iterated in 0.00211402 seconds.
+Computed local goal in 3.1526e-05 seconds.
+[ INFO] [1743476355.959904216, 11.507595504]: [AStarPlanner] Path found in 0.101316 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0021899 seconds.
+[TerrainMap] Iterated in 0.00218467 seconds.
+Computed local goal in 3.8719e-05 seconds.
+[ INFO] [1743476357.016144551, 11.607595506]: [AStarPlanner] Path found in 0.10867 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00213232 seconds.
+[TerrainMap] Iterated in 0.00212786 seconds.
+Computed local goal in 3.1562e-05 seconds.
+[ INFO] [1743476357.172448660, 11.607595506]: [AStarPlanner] Path found in 0.105915 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00212446 seconds.
+[TerrainMap] Iterated in 0.00211835 seconds.
+Computed local goal in 3.2647e-05 seconds.
+[ INFO] [1743476358.231497693, 11.707595507]: [AStarPlanner] Path found in 0.106923 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00216783 seconds.
+[TerrainMap] Iterated in 0.00216352 seconds.
+Computed local goal in 3.1632e-05 seconds.
+[ INFO] [1743476358.388060379, 11.707595507]: [AStarPlanner] Path found in 0.106178 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00224501 seconds.
+[TerrainMap] Iterated in 0.00223909 seconds.
+Computed local goal in 3.0856e-05 seconds.
+[ INFO] [1743476359.436851240, 11.807595509]: [AStarPlanner] Path found in 0.112618 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00217979 seconds.
+[TerrainMap] Iterated in 0.00217583 seconds.
+Computed local goal in 3.1286e-05 seconds.
+[ INFO] [1743476359.595490894, 11.807595509]: [AStarPlanner] Path found in 0.107849 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00205644 seconds.
+[TerrainMap] Iterated in 0.002051 seconds.
+Computed local goal in 2.8655e-05 seconds.
+[ INFO] [1743476360.615904677, 11.907595510]: [AStarPlanner] Path found in 0.103428 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00208508 seconds.
+[TerrainMap] Iterated in 0.00208114 seconds.
+Computed local goal in 2.9187e-05 seconds.
+[ INFO] [1743476360.762938199, 11.907595510]: [AStarPlanner] Path found in 0.098176 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00211366 seconds.
+[TerrainMap] Iterated in 0.00210846 seconds.
+Computed local goal in 2.8987e-05 seconds.
+[ INFO] [1743476361.826537701, 12.007595512]: [AStarPlanner] Path found in 0.106007 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00214751 seconds.
+[TerrainMap] Iterated in 0.00214196 seconds.
+Computed local goal in 2.9254e-05 seconds.
+[ INFO] [1743476361.978613288, 12.007595512]: [AStarPlanner] Path found in 0.104918 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00222763 seconds.
+[TerrainMap] Iterated in 0.00222201 seconds.
+Computed local goal in 3.0899e-05 seconds.
+[ INFO] [1743476363.019607441, 12.107595513]: [AStarPlanner] Path found in 0.107564 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00209784 seconds.
+[TerrainMap] Iterated in 0.00209306 seconds.
+Computed local goal in 3.0305e-05 seconds.
+[ INFO] [1743476363.173764127, 12.107595513]: [AStarPlanner] Path found in 0.104312 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00193276 seconds.
+[TerrainMap] Iterated in 0.00192747 seconds.
+Computed local goal in 2.7451e-05 seconds.
+[ INFO] [1743476364.211260404, 12.207595515]: [AStarPlanner] Path found in 0.0984768 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00203269 seconds.
+[TerrainMap] Iterated in 0.00202789 seconds.
+Computed local goal in 2.9785e-05 seconds.
+[ INFO] [1743476364.364514135, 12.207595515]: [AStarPlanner] Path found in 0.103275 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00232454 seconds.
+[TerrainMap] Iterated in 0.00231909 seconds.
+Computed local goal in 3.1228e-05 seconds.
+[ INFO] [1743476365.424985005, 12.307595516]: [AStarPlanner] Path found in 0.108235 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00206297 seconds.
+[TerrainMap] Iterated in 0.00205777 seconds.
+Computed local goal in 2.8825e-05 seconds.
+[ INFO] [1743476365.575898958, 12.307595516]: [AStarPlanner] Path found in 0.100942 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00218053 seconds.
+[TerrainMap] Iterated in 0.00217531 seconds.
+Computed local goal in 3.749e-05 seconds.
+[ INFO] [1743476366.623135644, 12.407595518]: [AStarPlanner] Path found in 0.109728 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0020618 seconds.
+[TerrainMap] Iterated in 0.00205751 seconds.
+Computed local goal in 2.932e-05 seconds.
+[ INFO] [1743476366.772134077, 12.407595518]: [AStarPlanner] Path found in 0.0993645 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0021227 seconds.
+[TerrainMap] Iterated in 0.00211768 seconds.
+Computed local goal in 3.0478e-05 seconds.
+[ INFO] [1743476367.822958913, 12.507595519]: [AStarPlanner] Path found in 0.10804 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00215454 seconds.
+[TerrainMap] Iterated in 0.0021502 seconds.
+Computed local goal in 3.0189e-05 seconds.
+[ INFO] [1743476367.975734591, 12.507595519]: [AStarPlanner] Path found in 0.103237 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00244293 seconds.
+[TerrainMap] Iterated in 0.00243663 seconds.
+Computed local goal in 3.4397e-05 seconds.
+[ INFO] [1743476369.022387469, 12.607595521]: [AStarPlanner] Path found in 0.111482 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00217243 seconds.
+[TerrainMap] Iterated in 0.00216728 seconds.
+Computed local goal in 2.9797e-05 seconds.
+[ INFO] [1743476369.176969916, 12.607595521]: [AStarPlanner] Path found in 0.103778 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00232136 seconds.
+[TerrainMap] Iterated in 0.00231481 seconds.
+Computed local goal in 3.2568e-05 seconds.
+[ INFO] [1743476370.239540907, 12.707595522]: [AStarPlanner] Path found in 0.120987 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0022608 seconds.
+[TerrainMap] Iterated in 0.002256 seconds.
+Computed local goal in 9.9453e-05 seconds.
+[ INFO] [1743476370.411166704, 12.707595522]: [AStarPlanner] Path found in 0.11719 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00225428 seconds.
+[TerrainMap] Iterated in 0.00224879 seconds.
+Computed local goal in 3.8894e-05 seconds.
+[ INFO] [1743476371.421263937, 12.807595524]: [AStarPlanner] Path found in 0.109302 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00218422 seconds.
+[TerrainMap] Iterated in 0.00217896 seconds.
+Computed local goal in 3.1496e-05 seconds.
+[ INFO] [1743476371.579121604, 12.807595524]: [AStarPlanner] Path found in 0.10619 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00318265 seconds.
+[TerrainMap] Iterated in 0.00317729 seconds.
+Computed local goal in 4.6428e-05 seconds.
+[ INFO] [1743476372.626926305, 12.907595525]: [AStarPlanner] Path found in 0.118078 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00228861 seconds.
+[TerrainMap] Iterated in 0.00228326 seconds.
+Computed local goal in 3.232e-05 seconds.
+[ INFO] [1743476372.803857182, 12.907595525]: [AStarPlanner] Path found in 0.123475 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00254326 seconds.
+[TerrainMap] Iterated in 0.00253717 seconds.
+Computed local goal in 4.5818e-05 seconds.
+[ INFO] [1743476373.831196273, 13.007595526]: [AStarPlanner] Path found in 0.108571 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00220967 seconds.
+[TerrainMap] Iterated in 0.00220385 seconds.
+Computed local goal in 3.3537e-05 seconds.
+[ INFO] [1743476373.990955720, 13.007595526]: [AStarPlanner] Path found in 0.108249 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00226013 seconds.
+[TerrainMap] Iterated in 0.00225421 seconds.
+Computed local goal in 3.1281e-05 seconds.
+[ INFO] [1743476375.026812426, 13.107595528]: [AStarPlanner] Path found in 0.112563 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00248738 seconds.
+[TerrainMap] Iterated in 0.00248176 seconds.
+Computed local goal in 3.1937e-05 seconds.
+[ INFO] [1743476375.192768854, 13.107595528]: [AStarPlanner] Path found in 0.110467 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00215066 seconds.
+[TerrainMap] Iterated in 0.00214524 seconds.
+Computed local goal in 2.929e-05 seconds.
+[ INFO] [1743476376.256459615, 13.207595529]: [AStarPlanner] Path found in 0.113421 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00226476 seconds.
+[TerrainMap] Iterated in 0.00225964 seconds.
+Computed local goal in 3.367e-05 seconds.
+[ INFO] [1743476376.416522203, 13.207595529]: [AStarPlanner] Path found in 0.108458 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00231737 seconds.
+[TerrainMap] Iterated in 0.00231085 seconds.
+Computed local goal in 3.0846e-05 seconds.
+[ INFO] [1743476377.469884066, 13.307595531]: [AStarPlanner] Path found in 0.114975 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00219429 seconds.
+[TerrainMap] Iterated in 0.00218947 seconds.
+Computed local goal in 3.1513e-05 seconds.
+[ INFO] [1743476377.629584618, 13.307595531]: [AStarPlanner] Path found in 0.107529 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00237833 seconds.
+[TerrainMap] Iterated in 0.00237283 seconds.
+Computed local goal in 3.4343e-05 seconds.
+[ INFO] [1743476378.697889830, 13.407595532]: [AStarPlanner] Path found in 0.113071 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0022266 seconds.
+[TerrainMap] Iterated in 0.00222082 seconds.
+Computed local goal in 3.2511e-05 seconds.
+[ INFO] [1743476378.857569676, 13.407595532]: [AStarPlanner] Path found in 0.10784 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00251375 seconds.
+[TerrainMap] Iterated in 0.0025081 seconds.
+Computed local goal in 4.8377e-05 seconds.
+[ INFO] [1743476379.940439581, 13.507595534]: [AStarPlanner] Path found in 0.118035 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00479257 seconds.
+[TerrainMap] Iterated in 0.00478671 seconds.
+Computed local goal in 5.3093e-05 seconds.
+[ INFO] [1743476380.144282930, 13.507595534]: [AStarPlanner] Path found in 0.131627 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0023446 seconds.
+[TerrainMap] Iterated in 0.00233949 seconds.
+Computed local goal in 3.0992e-05 seconds.
+[ INFO] [1743476381.150074875, 13.607595535]: [AStarPlanner] Path found in 0.104652 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0046094 seconds.
+[TerrainMap] Iterated in 0.00460247 seconds.
+Computed local goal in 5.2557e-05 seconds.
+[ INFO] [1743476381.347695529, 13.607595535]: [AStarPlanner] Path found in 0.12137 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00252045 seconds.
+[TerrainMap] Iterated in 0.00251439 seconds.
+Computed local goal in 3.3184e-05 seconds.
+[ INFO] [1743476382.405379229, 13.707595537]: [AStarPlanner] Path found in 0.126518 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00247075 seconds.
+[TerrainMap] Iterated in 0.0024635 seconds.
+Computed local goal in 3.585e-05 seconds.
+[ INFO] [1743476382.587772077, 13.707595537]: [AStarPlanner] Path found in 0.124494 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00237315 seconds.
+[TerrainMap] Iterated in 0.00236759 seconds.
+Computed local goal in 3.2059e-05 seconds.
+[ INFO] [1743476383.625811336, 13.807595538]: [AStarPlanner] Path found in 0.111325 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00229301 seconds.
+[TerrainMap] Iterated in 0.00228781 seconds.
+Computed local goal in 3.4185e-05 seconds.
+[ INFO] [1743476383.788776527, 13.807595538]: [AStarPlanner] Path found in 0.109816 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00269365 seconds.
+[TerrainMap] Iterated in 0.00268804 seconds.
+Computed local goal in 3.4554e-05 seconds.
+[ INFO] [1743476384.894648619, 13.907595540]: [AStarPlanner] Path found in 0.131739 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00317269 seconds.
+[TerrainMap] Iterated in 0.0031662 seconds.
+Computed local goal in 5.1095e-05 seconds.
+[ INFO] [1743476385.095353108, 14.007595541]: [AStarPlanner] Path found in 0.134321 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00276884 seconds.
+[TerrainMap] Iterated in 0.00276181 seconds.
+Computed local goal in 3.3218e-05 seconds.
+[ INFO] [1743476385.287383466, 14.107595543]: [AStarPlanner] Path found in 0.133393 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00228874 seconds.
+[TerrainMap] Iterated in 0.00228136 seconds.
+Computed local goal in 3.2941e-05 seconds.
+[ INFO] [1743476385.466603553, 14.207595544]: [AStarPlanner] Path found in 0.124348 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00233553 seconds.
+[TerrainMap] Iterated in 0.00232959 seconds.
+Computed local goal in 3.4243e-05 seconds.
+[ INFO] [1743476385.646628171, 14.207595544]: [AStarPlanner] Path found in 0.120612 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00259441 seconds.
+[TerrainMap] Iterated in 0.00258817 seconds.
+Computed local goal in 3.3892e-05 seconds.
+[ INFO] [1743476385.845184218, 14.307595546]: [AStarPlanner] Path found in 0.119304 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00275094 seconds.
+[TerrainMap] Iterated in 0.00274472 seconds.
+Computed local goal in 3.4869e-05 seconds.
+[ INFO] [1743476386.029036922, 14.407595547]: [AStarPlanner] Path found in 0.120181 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00230275 seconds.
+[TerrainMap] Iterated in 0.00229704 seconds.
+Computed local goal in 3.4655e-05 seconds.
+[ INFO] [1743476386.212796258, 14.507595549]: [AStarPlanner] Path found in 0.127467 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0023598 seconds.
+[TerrainMap] Iterated in 0.00235439 seconds.
+Computed local goal in 3.3519e-05 seconds.
+[ INFO] [1743476386.399691633, 14.607595550]: [AStarPlanner] Path found in 0.128454 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00236555 seconds.
+[TerrainMap] Iterated in 0.00235997 seconds.
+Computed local goal in 3.4745e-05 seconds.
+[ INFO] [1743476386.577166014, 14.607595550]: [AStarPlanner] Path found in 0.121894 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0025977 seconds.
+[TerrainMap] Iterated in 0.00259102 seconds.
+Computed local goal in 3.3559e-05 seconds.
+[ INFO] [1743476386.771681361, 14.707595552]: [AStarPlanner] Path found in 0.118249 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00239037 seconds.
+[TerrainMap] Iterated in 0.0023855 seconds.
+Computed local goal in 4.3306e-05 seconds.
+[ INFO] [1743476386.956013837, 14.807595553]: [AStarPlanner] Path found in 0.120078 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00240431 seconds.
+[TerrainMap] Iterated in 0.00239853 seconds.
+Computed local goal in 3.4717e-05 seconds.
+[ INFO] [1743476387.144680668, 14.907595555]: [AStarPlanner] Path found in 0.132281 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00234108 seconds.
+[TerrainMap] Iterated in 0.00233606 seconds.
+Computed local goal in 3.2824e-05 seconds.
+[ INFO] [1743476387.324538381, 14.907595555]: [AStarPlanner] Path found in 0.123414 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00272826 seconds.
+[TerrainMap] Iterated in 0.00272243 seconds.
+Computed local goal in 3.9807e-05 seconds.
+[ INFO] [1743476387.532281890, 15.007595556]: [AStarPlanner] Path found in 0.129596 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00282704 seconds.
+[TerrainMap] Iterated in 0.00282172 seconds.
+Computed local goal in 3.689e-05 seconds.
+[ INFO] [1743476387.730940079, 15.107595558]: [AStarPlanner] Path found in 0.129215 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00249126 seconds.
+[TerrainMap] Iterated in 0.00248535 seconds.
+Computed local goal in 3.456e-05 seconds.
+[ INFO] [1743476387.930425976, 15.207595559]: [AStarPlanner] Path found in 0.136879 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00273464 seconds.
+[TerrainMap] Iterated in 0.002729 seconds.
+Computed local goal in 3.5924e-05 seconds.
+[ INFO] [1743476388.121576995, 15.207595559]: [AStarPlanner] Path found in 0.129092 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0028881 seconds.
+[TerrainMap] Iterated in 0.00288257 seconds.
+Computed local goal in 4.5945e-05 seconds.
+[ INFO] [1743476388.683887735, 15.407595562]: [AStarPlanner] Path found in 0.481863 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00260565 seconds.
+[TerrainMap] Iterated in 0.00260068 seconds.
+Computed local goal in 3.4935e-05 seconds.
+[ INFO] [1743476389.228553319, 15.707595567]: [AStarPlanner] Path found in 0.483176 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0026996 seconds.
+[TerrainMap] Iterated in 0.00269381 seconds.
+Computed local goal in 3.8144e-05 seconds.
+[ INFO] [1743476389.405196297, 15.707595567]: [AStarPlanner] Path found in 0.120141 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00374216 seconds.
+[TerrainMap] Iterated in 0.00373537 seconds.
+Computed local goal in 4.612e-05 seconds.
+[ INFO] [1743476389.651008303, 15.807595568]: [AStarPlanner] Path found in 0.120447 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00292546 seconds.
+[TerrainMap] Iterated in 0.0029198 seconds.
+Computed local goal in 4.9421e-05 seconds.
+[ INFO] [1743476389.829908178, 15.907595570]: [AStarPlanner] Path found in 0.110945 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00255117 seconds.
+[TerrainMap] Iterated in 0.00254505 seconds.
+Computed local goal in 3.4044e-05 seconds.
+[ INFO] [1743476390.004000011, 16.007595571]: [AStarPlanner] Path found in 0.116602 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00312766 seconds.
+[TerrainMap] Iterated in 0.00312183 seconds.
+Computed local goal in 3.8025e-05 seconds.
+[ INFO] [1743476390.503208806, 16.207595574]: [AStarPlanner] Path found in 0.439701 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00340527 seconds.
+[TerrainMap] Iterated in 0.00339857 seconds.
+Computed local goal in 5.05e-05 seconds.
+[ INFO] [1743476391.068195750, 16.407595577]: [AStarPlanner] Path found in 0.505632 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00255787 seconds.
+[TerrainMap] Iterated in 0.00255182 seconds.
+Computed local goal in 3.6986e-05 seconds.
+[ INFO] [1743476391.249489429, 16.407595577]: [AStarPlanner] Path found in 0.124086 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00258758 seconds.
+[TerrainMap] Iterated in 0.00258213 seconds.
+Computed local goal in 3.6799e-05 seconds.
+[ INFO] [1743476391.457957237, 16.507595579]: [AStarPlanner] Path found in 0.130977 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00381511 seconds.
+[TerrainMap] Iterated in 0.00380993 seconds.
+Computed local goal in 5.2217e-05 seconds.
+[ INFO] [1743476392.023835669, 16.707595582]: [AStarPlanner] Path found in 0.494253 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00282178 seconds.
+[TerrainMap] Iterated in 0.00281624 seconds.
+Computed local goal in 3.8634e-05 seconds.
+[ INFO] [1743476392.721945123, 17.007595586]: [AStarPlanner] Path found in 0.630431 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00315499 seconds.
+[TerrainMap] Iterated in 0.00314908 seconds.
+Computed local goal in 3.9292e-05 seconds.
+[ INFO] [1743476393.383899559, 17.207595589]: [AStarPlanner] Path found in 0.594236 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00456456 seconds.
+[TerrainMap] Iterated in 0.00455814 seconds.
+Computed local goal in 5.148e-05 seconds.
+[ INFO] [1743476393.978349962, 17.407595592]: [AStarPlanner] Path found in 0.523571 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00326763 seconds.
+[TerrainMap] Iterated in 0.00326179 seconds.
+Computed local goal in 4.2097e-05 seconds.
+[ INFO] [1743476394.177577234, 17.507595594]: [AStarPlanner] Path found in 0.121528 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00315746 seconds.
+[TerrainMap] Iterated in 0.00315191 seconds.
+Computed local goal in 4.0385e-05 seconds.
+[ INFO] [1743476394.369394063, 17.607595595]: [AStarPlanner] Path found in 0.129575 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00304576 seconds.
+[TerrainMap] Iterated in 0.00303887 seconds.
+Computed local goal in 4.0503e-05 seconds.
+[ INFO] [1743476394.560592966, 17.607595595]: [AStarPlanner] Path found in 0.128651 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0036187 seconds.
+[TerrainMap] Iterated in 0.00361218 seconds.
+Computed local goal in 4.1895e-05 seconds.
+[ INFO] [1743476394.740943085, 17.707595597]: [AStarPlanner] Path found in 0.11897 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00316387 seconds.
+[TerrainMap] Iterated in 0.00315623 seconds.
+Computed local goal in 3.9363e-05 seconds.
+[ INFO] [1743476395.000396946, 17.807595598]: [AStarPlanner] Path found in 0.122107 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0030473 seconds.
+[TerrainMap] Iterated in 0.00304183 seconds.
+Computed local goal in 4.2045e-05 seconds.
+[ INFO] [1743476395.623646236, 18.107595602]: [AStarPlanner] Path found in 0.551601 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00358804 seconds.
+[TerrainMap] Iterated in 0.00358235 seconds.
+Computed local goal in 6.1929e-05 seconds.
+[ INFO] [1743476396.182130950, 18.307595605]: [AStarPlanner] Path found in 0.49674 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0034655 seconds.
+[TerrainMap] Iterated in 0.00345973 seconds.
+Computed local goal in 4.5769e-05 seconds.
+[ INFO] [1743476396.377946857, 18.407595607]: [AStarPlanner] Path found in 0.133832 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00285691 seconds.
+[TerrainMap] Iterated in 0.00285071 seconds.
+Computed local goal in 4.4626e-05 seconds.
+[ INFO] [1743476396.577172176, 18.507595608]: [AStarPlanner] Path found in 0.137189 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00320832 seconds.
+[TerrainMap] Iterated in 0.00320219 seconds.
+Computed local goal in 4.5368e-05 seconds.
+[ INFO] [1743476397.157228422, 18.707595611]: [AStarPlanner] Path found in 0.513925 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00284059 seconds.
+[TerrainMap] Iterated in 0.00283464 seconds.
+Computed local goal in 0.000118099 seconds.
+[ INFO] [1743476397.662971743, 18.907595614]: [AStarPlanner] Path found in 0.44306 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00352563 seconds.
+[TerrainMap] Iterated in 0.00352073 seconds.
+Computed local goal in 6.0125e-05 seconds.
+[ INFO] [1743476397.850510610, 18.907595614]: [AStarPlanner] Path found in 0.123639 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00301476 seconds.
+[TerrainMap] Iterated in 0.00300769 seconds.
+Computed local goal in 5.6926e-05 seconds.
+[ INFO] [1743476398.077756213, 19.007595616]: [AStarPlanner] Path found in 0.125932 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00392846 seconds.
+[TerrainMap] Iterated in 0.003922 seconds.
+Computed local goal in 7.2235e-05 seconds.
+[ INFO] [1743476398.694717311, 19.307595620]: [AStarPlanner] Path found in 0.546098 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.0027861 seconds.
+[TerrainMap] Iterated in 0.00278007 seconds.
+Computed local goal in 4.7706e-05 seconds.
+[ INFO] [1743476398.887530481, 19.307595620]: [AStarPlanner] Path found in 0.131719 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00306585 seconds.
+[TerrainMap] Iterated in 0.00306069 seconds.
+Computed local goal in 6.4979e-05 seconds.
+[ INFO] [1743476399.093494953, 19.407595622]: [AStarPlanner] Path found in 0.13047 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00294807 seconds.
+[TerrainMap] Iterated in 0.00294185 seconds.
+Computed local goal in 5.4055e-05 seconds.
+[ INFO] [1743476399.685193719, 19.707595626]: [AStarPlanner] Path found in 0.519945 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00328069 seconds.
+[TerrainMap] Iterated in 0.00327372 seconds.
+Computed local goal in 5.7806e-05 seconds.
+[ INFO] [1743476401.374150221, 20.407595637]: [AStarPlanner] Path found in 1.6278 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00295366 seconds.
+[TerrainMap] Iterated in 0.00294808 seconds.
+Computed local goal in 7.9437e-05 seconds.
+[ INFO] [1743476403.818031363, 21.407595652]: [AStarPlanner] Path found in 2.38973 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00524894 seconds.
+[TerrainMap] Iterated in 0.00524161 seconds.
+Computed local goal in 9.2471e-05 seconds.
+[ INFO] [1743476404.645346013, 21.807595658]: [AStarPlanner] Path found in 0.765201 seconds.
+received bev image
+[TerrainMap] Updated global map in 0.00271198 seconds.
+[TerrainMap] Iterated in 0.00270633 seconds.
+Computed local goal in 5.2255e-05 seconds.

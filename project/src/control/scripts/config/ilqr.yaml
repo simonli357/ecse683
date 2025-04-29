@@ -1,0 +1,8 @@
+L: 2.6
+dt: 0.1
+horizon: 20
+max_iter: 300
+
+#direct colloation
+N: 100
+T: 10
